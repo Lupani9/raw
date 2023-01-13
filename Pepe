@@ -1,7 +1,6 @@
 #EXTM3U
-
-#EXTINF:-1
-https://d2tr4gdfol9ja.cloudfront.net/atv/atv-mas.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1200px-Animal_Planet_logo.svg.png" group-title="CULTURA", Planeta Animal HD
+https://dailymotionlive.akamaized.net/sec(mj562f6n9IrWiHyCluoeFq3x961iHKe6nAOVy8Pb5t1snYsreUePysLq8ww19zty)/dm/3/x774s7s/s/live-3.m3u8
 #EXTINF:-1
 https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFvtukaCq_h8d7mqAsJuPEEvoLcCqEGW1t_jsLvGU_CzI)/dm/3/x774s7s/s/live-0.m3u8#cell=lnyc
 #EXTINF:-1
