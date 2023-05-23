@@ -12,4 +12,4 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1
 https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/live-audio_track_0_0_und=64000-video_track=145000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" grupo-tÃ­tulo="LOKAL",
+#EXTINF:-1https://atvperu.akamaized.net/hls/live/2100630/atv/master_240.m3u8
