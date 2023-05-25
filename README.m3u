@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1
+https://linear-431.frequency.stream/431/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1200px-Animal_Planet_logo.svg.png" group-title="CULTURA", Planeta Animal HD
+http://bit.ly/2j4EeLQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Discovery_Turbo.svg/1024px-Discovery_Turbo.svg.png" group-title="CULTURA", Descubrimiento Turbo
+http://bit.ly/2zCTjdT
+#EXTINF:-1 tvg-logo="https://imgur.com/TFN6MB9.png" group-title="CULTURA", GarageTv
+http://bit.ly/2zGYyMN
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/h2-tv-logo-CCC836E2F8-seeklogo.com.png" group-title="CULTURA", H2
+http://bit.ly/2jYmlir
+#EXTINF:-1 tvg-logo="http://theaerialfilmingcompany.com/wp-content/uploads/2016/06/nat-geo-logo.jpg" group-title="CULTURA", National Geographic
+http://bit.ly/2kuI5p9
+#EXTINF:-1 tvg-logo="https://cache.tikilive.com/public/files/shows/146/146728/43867-800x450-FFFFFF.jpg" group-title="CULTURA", Silence TV
+http://bit.ly/2wxlPQD
+#EXTINF:-1 tvg-logo="https://imgur.com/wRQGvEk.png" group-title="CULTURA", Sun Channel
+http://bit.ly/2A5SXQR
+#EXTINF:-1 tvg-logo="http://images.lacarmina.com/homepage/content/publishers_travel.png" group-title="CULTURA", Viajes HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="DEPORTES", beIN Sports 2 HD
+http://bit.ly/2CBeD5t
