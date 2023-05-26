@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1
+https://linear-431.frequency.stream/431/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7DKdgw/images-1.jpg" group-title="peru", willian
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmqEOWF7DaBqrJrB8Z5LFVV4loUwDe1TC6qg7kXsf66hB)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sKXSH1L/csm-2121-205-company-import-039be0b331.png" group-title="peru", panamericana
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H7bNDRG/images-2.jpg" group-title="peru", LATINA
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_4.m3u8?&
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zrYN9cQ/images-1.png" group-litle="peru", TVPERU https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zrYN9cQ/images-1.png" group-litle="PERU", TVNOTICIA https://cdnh71.iblups.com/hls/R9WtilpKKB .m3u8 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/h2-tv-logo-CCC836E2F8-seeklogo.com.png" group-title="CULTURA", H2
+http://bit.ly/2jYmlir
+#EXTINF:-1 tvg-logo="http://theaerialfilmingcompany.com/wp-content/uploads/2016/06/nat-geo-logo.jpg" group-title="CULTURA", National Geographic
+http://bit.ly/2kuI5p9
+#EXTINF:-1 tvg-logo="https://cache.tikilive.com/public/files/shows/146/146728/43867-800x450-FFFFFF.jpg" group-title="CULTURA", Silence TV
+http://bit.ly/2wxlPQD
+#EXTINF:-1 tvg-logo="https://imgur.com/wRQGvEk.png" group-title="CULTURA", Sun Channel
+http://bit.ly/2A5SXQR
+#EXTINF:-1 tvg-logo="http://images.lacarmina.com/homepage/content/publishers_travel.png" group-title="CULTURA", Viajes HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8 #EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="DEPORTES", beIN Sports 2 HD
+http://bit.ly/2CBeD5t
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="DEPORTES", beIN Sports 4 HD
+http://bit.ly/2kxwz8X
