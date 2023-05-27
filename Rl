@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo"https://i.ibb.co/sqzTb8R/descarga-1.jpg" Canal cinearg https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZxFsDpS/descarga-5.jpg" canal 1 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
