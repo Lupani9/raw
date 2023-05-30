@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1
+https://linear-431.frequency.stream/431/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fXv1LB2/Logokaribe-atv.png" group-title="PERU", karibeña
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sKXSH1L/csm-2121-205-company-import-039be0b331.png" group-title="PERU", panamericana
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H7bNDRG/images-2.jpg" group-title="PERU", LATINA
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_4.m3u8?&
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wyh6CvW/images.jpg" group-title="PERU", ATV
+https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/64tSNqQ/ATV-logo-2020.png" group-title="PERU", ATV+ 
+https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pPxsc2W/descarga.jpg" group-title="PERU", ATV SUR
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFLCn1L/Logoexitosa.png" group-title="PERU", exitosa
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zrYN9cQ/images-1.png" group-title="PERU", ant HD
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1012525651.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZKDWtHz/images-1.jpg" group-title="PERU",  canal N HD
+http://bit.ly/2kxwz8X
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfY0QmR/images.png" group-title="PERU", ipe HD
+https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jb60Rdk/images-2.jpg" group-title="PERU", via HD
+https://multimedia.tmcreativos.com:1936/cablerasvia/cablerasvia/chunklist_w45065088.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tYsNPzk/descarga-3.jpg" group-title="PERU", tv peru HD
+https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yVXqbNM/descarga-4.jpg" group-title="PERU", tv Perú noticias
+https://cdnh71.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hn856pf/Adn40-2022.png" group-title="MEXICO", adn 40
+https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream/60b578b060947317de7b57ac/publish/media_400.m3u8?aid=5fea0f3673148d5d52cf6a76&pid=Eoes2nYV8m1WriCNDXPdUpOTT3urXzRo&sid=ClbtCSuoWtASkg7ytot0K18iL740ORdd&uid=OhELVYf35AzfPbzNm61ep8rcVi1K1exO&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1685485079535&ot=wkyWrvihANUqW7Aw7wrChg&proto=https&pz=us
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBWR4y3/descarga-1.png" group-title="MEXICO", foro
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zGdXV2M/images-2.jpg" group-title="ARGENTINA", america HD
+https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_360p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTmjcVM/descarga-3.jpg" group-title="ARGENTINA", telefe HD
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9pJ9WL4/descarga-2.jpg" group-title="VENEZUELA", telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZxFsDpS/descarga-5.jpg" group-title="ESPAÑA", la 1 HD
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kXrHgpz/descarga-3.png" group-title="ESPAÑA", antena3 HD
+http://bit.ly/2zTr8vq
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_fox-sports-3-hd_m.png" group-title="DEPORTES", Fox Sports 3 HD
+http://bit.ly/2nCfkbb
