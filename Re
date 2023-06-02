@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:1- http://tstv.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICKELODEON_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZxFsDpS/descarga-5.jpg" group-litle="ESPAÑA", CANAL 1
+https://vsd188.mycdn.me:443/hls/3849692514887.m3u8/sig/3nAhL1ROWs4/expires/1685836500394/srcIp/190.43.149.163/urls/185.226.52.91/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/3849692514887_lowest/index.m3u8
