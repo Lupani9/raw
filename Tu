@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:1- http://tstv.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICKELODEON_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZxFsDpS/descarga-5.jpg" group-litle="ESPAÑA", CANAL 1
+https://vsd188.mycdn.me:443/hls/3849692514887.m3u8/sig/3nAhL1ROWs4/expires/1685836500394/srcIp/190.43.149.163/urls/185.226.52.91/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/3849692514887_lowest/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qmv5pQ9/descarga-6.jpg" group-litle="ESPAÑA",  CANAL 2
+https://vsd105.mycdn.me/hls/3849603779143.m3u8/sig/x94ayXa7BcM/expires/1685837347604/srcIp/190.43.149.163/urls/185.226.53.57/clientType/0/srcAg/CHROME_ANDROID/mid/6695123295815/video.m3u8?p
+#EXTINF:-1  tvg-logo="https://i.ibb.co/H7bNDRG/images-2.jpg" group-litle="PERU",  LATINA
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Cp0FK6TVuwl71Op4nKXo84nY8WYoHO5JwxeNOovMNyHQI-TjBBLjIZbXoaxdfLwGIdmdWOdEnHDE-PrWNzLKRUZkBH5s-Rswl8r83gKjDIR9irq32vXe2dZn0NoApYEIeZGOkZiUkMfWMk3sls5xW3cUK3sZA5ha95FIvdulRvVp8nO8w0jpBJ1OvF0HzeK2-5PrC4J2lA-k8yzzv83D7-1bN3eA03EPcqJ7wFqJOAvFXc1khqzEvQ9alR0nDdDz_1ide998NxQTe4T7VC06IY3YFOy9QVyeKgKxzNdsj2n5RbFCZzZWjb0q8LiIGeyES5mw0SvyMCdtWc5LBEs2yL9I8Nt29-x0u-NQ85i4ScSCWqyIkdLUD06C041JzAit-KGa037n3FcZcolDvynbXks3UzWCck7lcrh01NKgTmYLkKW-ZhY3DEoWeYtB3a0O4Hl_hdgW24j_b8_be3GkKSCuMIYPXc5Ti-chVMSCDDdDofafba0n5jpFhxIrtiGn24CWKTRXpwAiLvIbk5tnvF0bBZxP8mXNMDnJdvec8GsRYF_v1uZlv_TBXTEo_b39iuS3CE1OWTXiwt6hQHHanFdJwSo86QI7ujaEvLOBYPMsMWEkrPlG9cXc_Y3aGSY2KP99mLTI_Y4qjV7MIzelxDposfYoVO4BxKHPrJ-aoqSa3vaPqDFa12I9RngIw1uwpsYJyyCvXvxvSqeGjABhpQEJKi75IgwaPgE8Lhy8eSiAM_ooQ79u9kfkc75I9n1DBp-vgiRrXqdxB4Y_rTUr8Xh73Vo7LT4X2aRHSCcfU4KBlTqxargKsmisA8FZ-t1N6Y2nPiVksfdTpcqUYw82N7phmAruFIFtiklkawbLo0asqybdvK64JQuY42khGL40GgzUezTDlcux1ocpO40gASoJZXUtd2VzdC0yMNwG.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wyh6CvW/images.jpg" group-litle="PERU",  atv
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sKXSH1L/csm-2121-205-company-import-039be0b331.png" group-litle="PERU",  PANAMERICANA
+https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFuddWOjLNzhq1hkup4twNMtfwQyC6QHJElDuvf5_35vj)/dm/3/x774s7s/s/live-0.m3u8#cell=lnyc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7DKdgw/images-1.jpg" group-litle="PERU", WILLAX SD
+https://vsd209.mycdn.me:443/hls/3978514336340.m3u8/sig/P0_0ngYFrSg/expires/1685838677056/srcIp/190.43.149.163/urls/45.136.20.79/clientType/0/srcAg/CHROME_ANDROID/mid/4919251574356/3978514336340_low/index.m3u8
