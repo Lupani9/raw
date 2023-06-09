@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1
+https://linear-431.frequency.stream/431/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fXv1LB2/Logokaribe-atv.png" group-title="PERU", karibeña
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sKXSH1L/csm-2121-205-company-import-039be0b331.png" group-title="PERU", panamericana
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nDhPmjj/descarga-60.png" group-title="PERU", LATINA
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_4.m3u8?&
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fXTwHq9/descarga-24.jpg" group-title="PERU", ATV
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SsL2tKf/descarga-25.jpg" group-title="PERU", ATV+ 
+https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZG12J0Q/descarga-32.jpg" group-title="PERU", ATV SUR
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xGCH5Gs/descarga-59.png" group-title="PERU", exitosa
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zrYN9cQ/images-1.png" group-title="PERU", ant HD
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1012525651.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hW7xN3L/descarga-69.png" group-title="PERU",  canl sol HD
+https://video03.logicahost.com.br:443/soltv/soltv/chunklist_w1762894721.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfY0QmR/images.png" group-title="PERU", ipe HD
+https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jb60Rdk/images-2.jpg" group-title="PERU", via HD
+https://multimedia.tmcreativos.com:1936/cablerasvia/cablerasvia/chunklist_w45065088.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tYsNPzk/descarga-3.jpg" group-title="PERU", tv peru HD
+https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5RW5Zcj/descarga-61.png" group-title="PERU", tv Perú noticias
+https://cdnh71.iblups.com/hls/RMuwrdk7M9.m3u8
