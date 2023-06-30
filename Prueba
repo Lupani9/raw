@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fXv1LB2/Logokaribe-atv.png" group-title="PERU", karibeña
+https://amg00090-blueantllc-naturetimeemea-samsungspain-y1v3n.amagi.tv/playlist/amg00090-blueantllc-naturetimeemea-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sKXSH1L/csm-2121-205-company-import-039be0b331.png" group-title="PERU", fox
+https://cdn.tutelehd.sx/live/ST2e0966e430e9db4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nDhPmjj/descarga-60.png" group-title="PERU", Discovery kid
+https://playout.cdn.cartoonnetwork.com.br:443/playout_08/playlist-240p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fXTwHq9/descarga-24.jpg" group-title="chile", Fox SPORT 2
+https://cdn.tutelehd.sx/live/STc299a359114bdb6.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SsL2tKf/descarga-25.jpg" group-title="PERU", ATV+ 
+https://pelivechannelsdash-1.clarovideo.com/bpk-tv/GLOBALHD/dash_fk/dash/GLOBALHD-audio_133600_spa=131600-81023920054805.dash
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZG12J0Q/descarga-32.jpg" group-title="PERU", ATV SUR
+https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpBvZTR/descarga-21.jpg" group-title="MEXICO", az mundo
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(PASIONES_HD)/1685482745323item-07item_Segment-25784043528824.m4a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/92wFxQ8/Canal-5-M-xico-2007.png" group-title="MEXICO", canal 5
+https://1109-vos.dtvott.com/DASH/stream_06/Segment-3891251973885133.m4v
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sQbdzPx/images-3.jpg" group-title="MEXICO", span
+http://tv.nousiptv.com:8080/Javier1414/J5612311414/1155863
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nm4Qn7p/descarga-48.png" group-title="MEXICO", gol tv
+https://pro.zorrohd8.xyz/live/STbee3f1d5c8ff5e6.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbT7nM0/descarga-19.jpg" group-title="MEXICO", mega chile
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?nimblesessionid=192187441
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zGdXV2M/images-2.jpg" group-title="ARGENTINA", america HD
+https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_360p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTmjcVM/descarga-3.jpg" group-title="ARGENTINA", telefe HD
+http://tv.nousiptv.com:8080/Javier1414/J5612311414/1155824
