@@ -1,0 +1,210 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fXv1LB2/Logokaribe-atv.png" group-title="PERU", karibeña
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sKXSH1L/csm-2121-205-company-import-039be0b331.png" group-title="PERU", panamericana
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nDhPmjj/descarga-60.png" group-title="PERU", LATINA
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_4.m3u8?&
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fXTwHq9/descarga-24.jpg" group-title="PERU", ATV
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv_240.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SsL2tKf/descarga-25.jpg" group-title="PERU", ATV+ 
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_360.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZG12J0Q/descarga-32.jpg" group-title="PERU", ATV SUR
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xGCH5Gs/descarga-59.png" group-title="PERU", exitosa
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zrYN9cQ/images-1.png" group-title="PERU", ant HD
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1012525651.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hW7xN3L/descarga-69.png" group-title="PERU",  canl sol HD
+https://video03.logicahost.com.br:443/soltv/soltv/chunklist_w1762894721.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfY0QmR/images.png" group-title="PERU", ipe HD
+https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jb60Rdk/images-2.jpg" group-title="PERU", via HD
+https://multimedia.tmcreativos.com:1936/cablerasvia/cablerasvia/chunklist_w45065088.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tYsNPzk/descarga-3.jpg" group-title="PERU", tv peru HD
+https://d6vls0u25arys.cloudfront.net:443/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5RW5Zcj/descarga-61.png" group-title="PERU", tv Perú noticias
+https://cdnh71.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7DKdgw/images-1.jpg" group-title="PERU", willax
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmhQ4s_fQyycBvR0dgAIi7sGKSM_U4EV5KSSHyYaS5KDR)/dm/3/x7x4dgx/s/live-0.m3u8#cell=lnyc
+#EXTINF:0 tvg-id="America2.ar" group-title="PERU",AMERICA TV HD
+http://gotv.vip:8880/demo/demo/66344
+#EXTINF:0 tvg-id="America2.ar" group-title="PERU",AMERICA TV SD
+http://gotv.vip:8880/demo/demo/66345
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPMxkFD/images-8.jpg" group-title="PERU", canal N
+http://tv.nousiptv.com:8080/Javier1414/J5612311414/7825
+#EXTINF:0 tvg-id="ext" group-title="PERU",GOL PERU FHD
+http://gotv.vip:8880/demo/demo/687
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wwhQr8h/descarga-34.png" group-title="PERU", Movistar deporte
+http://tv.nousiptv.com:8080/martharodriguez/MR9007483/1092642
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dpXcZJL/descarga-1.png" group-title="PERU", love nature
+https://amg00090-blueantllc-naturetimeemea-samsungspain-y1v3n.amagi.tv/playlist/amg00090-blueantllc-naturetimeemea-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/brDYjHx/descarga-23.jpg" group-title="PERU", cartoon network
+https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-240p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dkWz8k4/descarga-58.png" group-title="PERU", Discovery kids
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",A3S INTERNACIONAL
+http://gotv.vip:8880/demo/demo/13
+#EXTINF:0 tvg-id="AMC.pe" group-title="Entretenimiento",AMC
+http://gotv.vip:8880/demo/demo/16
+#EXTINF:0 tvg-id="Antena3.pe" group-title="Entretenimiento",ANTENA 3
+http://gotv.vip:8880/demo/demo/18
+#EXTINF:0 tvg-id="AXN.pe" group-title="Entretenimiento",AXN
+http://gotv.vip:8880/demo/demo/19
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Entretenimiento",AXN WHITE
+http://gotv.vip:8880/demo/demo/20
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Entretenimiento",COMEDY CENTRAL
+http://gotv.vip:8880/demo/demo/40
+#EXTINF:0 tvg-id="DiscoveryTurbo.pe" group-title="Entretenimiento",DISCOVERY TURBO
+http://gotv.vip:8880/demo/demo/52
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Entretenimiento",DISTRITO COMEDIA
+http://gotv.vip:8880/demo/demo/57
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",E! Entertaiment
+http://gotv.vip:8880/demo/demo/58
+#EXTINF:0 tvg-id="ElGarage.ar" group-title="Entretenimiento",EL GARAGE
+http://gotv.vip:8880/demo/demo/59
+#EXTINF:0 tvg-id="ElGourmet.pe" group-title="Entretenimiento",EL GOURMET
+http://gotv.vip:8880/demo/demo/60
+#EXTINF:0 tvg-id="EstrellaTV.us" group-title="Entretenimiento",ESTRELLA TV
+http://gotv.vip:8880/demo/demo/66
+#EXTINF:0 tvg-id="FoodNetwork.eu" group-title="Entretenimiento",FOOD NETWORK
+http://gotv.vip:8880/demo/demo/67
+#EXTINF:0 tvg-id="FOX.bg" group-title="Entretenimiento",FOX
+http://gotv.vip:8880/demo/demo/69
+#EXTINF:0 tvg-id="FX.pe" group-title="Entretenimiento",FX
+http://gotv.vip:8880/demo/demo/80
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Entretenimiento",FXM
+http://gotv.vip:8880/demo/demo/81
+#EXTINF:0 tvg-id="GalaTV.mx" group-title="Entretenimiento",GALA TV
+http://gotv.vip:8880/demo/demo/82
+#EXTINF:0 tvg-id="Glitz.pe" group-title="Entretenimiento",GLITZ
+http://gotv.vip:8880/demo/demo/83
+#EXTINF:0 tvg-id="HolaTV.us" group-title="Entretenimiento",HOLA TV
+http://gotv.vip:8880/demo/demo/93
+#EXTINF:0 tvg-id="Lifetime.pe" group-title="Entretenimiento",LIFETIME
+http://gotv.vip:8880/demo/demo/95
+#EXTINF:0 tvg-id="Maschic.mx" group-title="Entretenimiento",MAS CHIC
+http://gotv.vip:8880/demo/demo/96
+#EXTINF:0 tvg-id="Pasiones.us" group-title="Entretenimiento",PASIONES
+http://gotv.vip:8880/demo/demo/108
+#EXTINF:0 tvg-id="Showtime.no" group-title="Entretenimiento",SHOWTIME
+http://gotv.vip:8880/demo/demo/111
+#EXTINF:0 tvg-id="Sony.pe" group-title="Entretenimiento",SONY
+http://gotv.vip:8880/demo/demo/112
+#EXTINF:0 tvg-id="Sundance.bg" group-title="Entretenimiento",Sundance
+http://gotv.vip:8880/demo/demo/117
+#EXTINF:0 tvg-id="24dok" group-title="Entretenimiento",TBS
+http://gotv.vip:8880/demo/demo/119
+#EXTINF:0 tvg-id="AyE.mx" group-title="Entretenimiento",A&E
+http://gotv.vip:8880/demo/demo/6
+#EXTINF:0 tvg-id="TNTSeries.pe" group-title="Entretenimiento",TNT Series
+http://gotv.vip:8880/demo/demo/365
+#EXTINF:0 tvg-id="Warner.pe" group-title="Entretenimiento",WARNER
+http://gotv.vip:8880/demo/demo/366
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Entretenimiento",TruTV
+http://gotv.vip:8880/demo/demo/367
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Entretenimiento",Unicable
+http://gotv.vip:8880/demo/demo/368
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Entretenimiento",TLnovelas
+http://gotv.vip:8880/demo/demo/370
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",SONY COMPETENCIAS
+http://gotv.vip:8880/demo/demo/1305
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",SONY COMEDIAS
+http://gotv.vip:8880/demo/demo/1306
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",SONY NOVELAS
+http://gotv.vip:8880/demo/demo/1307
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",A3S INTERNACIONAL
+http://gotv.vip:8880/demo/demo/139998
+#EXTINF:0 tvg-id="RaiItalia.cl" group-title="Entretenimiento",RAI ITALIA
+http://gotv.vip:8880/demo/demo/140010
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Curiosity - Documentales
+http://gotv.vip:8880/demo/demo/140020
+#EXTINF:0 tvg-id="ISat.ar" group-title="Entretenimiento",I-SAT
+http://gotv.vip:8880/demo/demo/140023
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",TESTE MADE
+http://gotv.vip:8880/demo/demo/140025
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",SONY CINE
+http://gotv.vip:8880/demo/demo/140043
+#EXTINF:0 tvg-id="GREATmovies.uk" group-title="Entretenimiento",SONY MOVIES
+http://gotv.vip:8880/demo/demo/140044
+
+#EXTINF:0 tvg-id="AnimalPlanet.pe" group-title="CULTURA",ANIMAL PLANET
+http://gotv.vip:8880/demo/demo/17
+#EXTINF:0 tvg-id="DiscoveryChannel.pe" group-title="CULTURA",DISCOVERY CHANNEL
+http://gotv.vip:8880/demo/demo/42
+#EXTINF:0 tvg-id="HGTV.us" group-title="CULTURA",HGTV
+http://gotv.vip:8880/demo/demo/43
+#EXTINF:0 tvg-id="DiscoveryFamilia.us" group-title="CULTURA",DISCOVERY FAMILIA
+http://gotv.vip:8880/demo/demo/45
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="CULTURA",DISCOVERY H&H
+http://gotv.vip:8880/demo/demo/46
+#EXTINF:0 tvg-id="Investigation.uk" group-title="CULTURA",DISCOVERY ID
+http://gotv.vip:8880/demo/demo/47
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="CULTURA",DISCOVERY THEATER
+http://gotv.vip:8880/demo/demo/50
+#EXTINF:0 tvg-id="tlc-russia" group-title="CULTURA",DISCOVERY TLC
+http://gotv.vip:8880/demo/demo/51
+#EXTINF:0 tvg-id="Discovery.uk" group-title="CULTURA",DISCOVERY WORLD
+http://gotv.vip:8880/demo/demo/53
+#EXTINF:0 tvg-id="H2.uk" group-title="CULTURA",HISTORY 2
+http://gotv.vip:8880/demo/demo/91
+#EXTINF:0 tvg-id="HistoryChannel.pe" group-title="CULTURA",HISTORY CHANNEL
+http://gotv.vip:8880/demo/demo/92
+#EXTINF:0 tvg-id="ext" group-title="CULTURA",NAT GEO MUNDO
+http://gotv.vip:8880/demo/demo/102
+#EXTINF:0 tvg-id="NGCWild.eu" group-title="CULTURA",NAT GEO WILD
+http://gotv.vip:8880/demo/demo/103
+#EXTINF:0 tvg-id="NationalGeographic.pe" group-title="CULTURA",NATIONAL GEOGRAPHIC
+http://gotv.vip:8880/demo/demo/104
+#EXTINF:0 tvg-id="DiscoveryScience.pe" group-title="CULTURA",DISCOVERY SCIENCE
+http://gotv.vip:8880/demo/demo/280
+#EXTINF:0 tvg-id="NGCHD.uk" group-title="CULTURA",NAT GEO HD
+http://gotv.vip:8880/demo/demo/140024
+#EXTINF:0 tvg-id="Wobi.pe" group-title="CULTURA",WOBI
+http://gotv.vip:8880/demo/demo/140026
+
+#EXTINF:0 tvg-id="ext" group-title="CINEMA PREMIUM",AZ CINEMA
+http://gotv.vip:8880/demo/demo/22
+#EXTINF:0 tvg-id="Cinecanal.pe" group-title="CINEMA PREMIUM",CINECANAL
+http://gotv.vip:8880/demo/demo/36
+#EXTINF:0 tvg-id="Cinelatino.us" group-title="CINEMA PREMIUM",CINELATINO
+http://gotv.vip:8880/demo/demo/37
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="CINEMA PREMIUM",DE PELICULA
+http://gotv.vip:8880/demo/demo/41
+#EXTINF:0 tvg-id="ext" group-title="CINEMA PREMIUM",UNIVERSAL CRIME
+http://gotv.vip:8880/demo/demo/70
+#EXTINF:0 tvg-id="ext" group-title="CINEMA PREMIUM",UNIVERSAL CINEMA
+http://gotv.vip:8880/demo/demo/71
+#EXTINF:0 tvg-id="ext" group-title="CINEMA PREMIUM",UNIVERSAL REALITY
+http://gotv.vip:8880/demo/demo/73
+#EXTINF:0 tvg-id="ext" group-title="CINEMA PREMIUM",UNIVERSAL PREMIERE
+http://gotv.vip:8880/demo/demo/75
+#EXTINF:0 tvg-id="GoldenEdge.pe" group-title="CINEMA PREMIUM",GOLDEN EDGE
+http://gotv.vip:8880/demo/demo/85
+#EXTINF:0 tvg-id="ext" group-title="CINEMA PREMIUM",GOLDEN PLUS
+http://gotv.vip:8880/demo/demo/86
+#EXTINF:0 tvg-id="HBO.pe" group-title="CINEMA PREMIUM",HBO
+http://gotv.vip:8880/demo/demo/87
+#EXTINF:0 tvg-id="HBO2.pe" group-title="CINEMA PREMIUM",HBO 2
+http://gotv.vip:8880/demo/demo/88
+#EXTINF:0 tvg-id="HBOFamily.pe" group-title="CINEMA PREMIUM",HBO FAMILY
+http://gotv.vip:8880/demo/demo/89
+#EXTINF:0 tvg-id="Hboplus.br" group-title="CINEMA PREMIUM",HBO PLUS
+http://gotv.vip:8880/demo/demo/90
+#EXTINF:0 tvg-id="Maxprime.br" group-title="CINEMA PREMIUM",HBO XTREME
+http://gotv.vip:8880/demo/demo/97
+#EXTINF:0 tvg-id="Maxup.br" group-title="CINEMA PREMIUM",HBO POP
+http://gotv.vip:8880/demo/demo/98
+#EXTINF:0 tvg-id="Space.pe" group-title="CINEMA PREMIUM",SPACE
+http://gotv.vip:8880/demo/demo/113
+#EXTINF:0 tvg-id="StarzEast.us" group-title="CINEMA PREMIUM",STARZ
+http://gotv.vip:8880/demo/demo/114
+#EXTINF:0 tvg-id="StarzEncore.us" group-title="CINEMA PREMIUM",STARZ ENCORE
+http://gotv.vip:8880/demo/demo/115
+#EXTINF:0 tvg-id="StudioUniversal.pe" group-title="CINEMA PREMIUM",STUDIO UNIVERSAL
+http://gotv.vip:8880/demo/demo/116
+#EXTINF:0 tvg-id="SyFy.pe" group-title="CINEMA PREMIUM",SYFY
+http://gotv.vip:8880/demo/demo/118
+#EXTINF:0 tvg-id="TCM.pe" group-title="CINEMA PREMIUM",TCM
+http://gotv.vip:8880/demo/demo/120
