@@ -1,0 +1,489 @@
+#EXTM3U
+#EXTINF:-1,---FREE PLAYLIST achotv.com
+http://www.achotv.com
+#EXTINF:-1,---LAST UPDATE 09-10-2017---
+http://www.achotv.com
+
+#EXTINF:-1,Latinos:HBO
+http://wowza2.mysoltv.com:1992/Latino_HBO/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Latinos:HBO 2
+http://wowza2.mysoltv.com:1992/Latino_HBO_2/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,24/7:Malcolm el de en medio 24/7
+http://server.poweriptv.cl:25461/live/asd123/asd123/1330.m3u8
+
+#EXTINF:-1,Latinos:Fox Series
+http://server.poweriptv.cl:25461/live/asd123/asd123/50.m3u8
+
+#EXTINF:-1,Latinos:Disney Jr
+http://server.poweriptv.cl:25461/live/asd123/asd123/35.m3u8
+
+#EXTINF:-1,Latinos:Discovery Civilizacion
+http://server.poweriptv.cl:25461/live/asd123/asd123/33.m3u8
+
+#EXTINF:-1,Latinos:TLC
+http://server.poweriptv.cl:25461/live/asd123/asd123/30.m3u8
+
+#EXTINF:-1,Latinos:E!
+http://server.poweriptv.cl:25461/live/asd123/asd123/38.m3u8
+
+#EXTINF:-1,Latinos:Gourmet
+http://server.poweriptv.cl:25461/live/asd123/asd123/40.m3u8
+
+#EXTINF:-1,Latinos:H&H
+http://server.poweriptv.cl:25461/live/asd123/asd123/26.m3u8
+
+#EXTINF:-1,Latinos:ESPN2
+http://server.poweriptv.cl:25461/live/asd123/asd123/42.m3u8
+
+#EXTINF:-1,Latinos:History
+http://server.poweriptv.cl:25461/live/asd123/asd123/65.m3u8
+
+#EXTINF:-1,Latinos:CSat
+http://server.poweriptv.cl:25461/live/asd123/asd123/68.m3u8
+
+#EXTINF:-1,Latinos:Lifetime
+http://server.poweriptv.cl:25461/live/asd123/asd123/69.m3u8
+
+#EXTINF:-1,Latinos:MTV Hits
+http://server.poweriptv.cl:25461/live/asd123/asd123/73.m3u8
+
+#EXTINF:-1,Latinos:Multimedios Plus
+http://server.poweriptv.cl:25461/live/asd123/asd123/75.m3u8
+
+#EXTINF:-1,Latinos:NatGeo Wild
+http://server.poweriptv.cl:25461/live/asd123/asd123/77.m3u8
+
+#EXTINF:-1,Latinos:NickJR
+http://server.poweriptv.cl:25461/live/asd123/asd123/80.m3u8
+
+#EXTINF:-1,Latinos:Nicktoons
+http://server.poweriptv.cl:25461/live/asd123/asd123/81.m3u8
+
+#EXTINF:-1,Latinos:SPACE
+http://server.poweriptv.cl:25461/live/asd123/asd123/87.m3u8
+
+#EXTINF:-1,Latinos:Studio Universal
+http://server.poweriptv.cl:25461/live/asd123/asd123/88.m3u8
+
+#EXTINF:-1,Latinos:TBS
+http://server.poweriptv.cl:25461/live/asd123/asd123/90.m3u8
+
+#EXTINF:-1,Latinos:Telehit
+http://server.poweriptv.cl:25461/live/asd123/asd123/93.m3u8
+
+#EXTINF:-1,Latinos:TIIN
+http://server.poweriptv.cl:25461/live/asd123/asd123/95.m3u8
+
+#EXTINF:-1,Latinos:Trutv
+http://server.poweriptv.cl:25461/live/asd123/asd123/101.m3u8
+
+#EXTINF:-1,Latinos:Universal Channel
+http://server.poweriptv.cl:25461/live/asd123/asd123/104.m3u8
+
+#EXTINF:-1,Latinos:HBO Plus
+http://server.poweriptv.cl:25461/live/asd123/asd123/120.m3u8
+
+#EXTINF:-1,Latinos:MaxPrime
+http://server.poweriptv.cl:25461/live/asd123/asd123/122.m3u8
+
+#EXTINF:-1,Latinos:A&E
+http://server.poweriptv.cl:25461/live/asd123/asd123/01.m3u8
+
+#EXTINF:-1,Latinos:Animal Planet
+http://server.poweriptv.cl:25461/live/asd123/asd123/03.m3u8
+
+#EXTINF:-1,Latinos:AXN
+http://server.poweriptv.cl:25461/live/asd123/asd123/04.m3u8
+
+#EXTINF:-1,Latinos:Azteca 7
+http://server.poweriptv.cl:25461/live/asd123/asd123/12.m3u8
+
+#EXTINF:-1,Latinos:Bandamax
+http://server.poweriptv.cl:25461/live/asd123/asd123/13.m3u8
+
+#EXTINF:-1,Latinos:Cinemax
+http://server.poweriptv.cl:25461/live/asd123/asd123/22.m3u8
+
+#EXTINF:-1,Latinos:Discovery Channel
+http://server.poweriptv.cl:25461/live/asd123/asd123/25.m3u8
+
+#EXTINF:-1,Latinos:Fox Sports 2
+http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2FhF1CYp1twJIJNWh9CktSohPtLTBr7Fa1MNv6ISAwwg6xC9LJNIBfnnnrM2xADucXLsp%2BVRi6uXg%3D%3D
+
+#EXTINF:-1,Latinos:Canal Panda
+http://iptv.cs2017.info:9090/live/vaquezs/24/196.m3u8
+
+#EXTINF:-1,Latinos:Caracol
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+
+#EXTINF:-1,Latinos:BabyTV
+http://iptv.cs2017.info:9090/live/vaquezs/24/213.m3u8
+
+#EXTINF:-1,Latinos:Nickelodeon
+http://iptv.cs2017.info:9090/live/vaquezs/24/226.m3u8
+
+#EXTINF:-1,Latinos:Disney XD
+http://iptv.cs2017.info:9090/live/vaquezs/24/128.m3u8
+
+#EXTINF:-1,Latinos:Comedy Central
+http://iptv.cs2017.info:9090/live/vaquezs/24/164.m3u8
+
+#EXTINF:-1,Latinos:Disney Channel
+http://iptv.cs2017.info:9090/live/vaquezs/24/146.m3u8
+
+#EXTINF:-1,Latinos:Disney Channel HD
+http://iptv.cs2017.info:9090/live/vaquezs/24/223.m3u8
+
+#EXTINF:-1,EspaÃ±a:Disney Jr EspaÃ±a
+http://iptv.cs2017.info:9090/live/vaquezs/24/202.m3u8
+
+#EXTINF:-1,EspaÃ±a:BOING EspaÃ±a
+http://iptv.cs2017.info:9090/live/vaquezs/24/167.m3u8
+
+#EXTINF:-1,Infantil:Disney Jr
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Latinos:FOX MOVIES
+http://200.89.190.162/live/live/FoxMoviesHD/SA_Live/FoxMoviesHD-video=3900000-audio_AACL_eng_144800_51=144800.m3u8
+
+#EXTINF:-1,Latinos:TV Peru
+http://cdnh15.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1,Latinos:Efekto TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+
+#EXTINF:-1,Latinos:Azteca Trece
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Latinos:Azteca Cinema
+https://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.m3u8
+
+#EXTINF:-1,Latinos:AzCorazon
+https://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master2500k.m3u8?
+
+#EXTINF:-1,Latinos:Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+
+#EXTINF:-1,Latinos:AzClic
+https://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master2500k.m3u8?
+
+#EXTINF:-1,Latinos:Capital 21
+http://api.new.livestream.com/accounts/21495989/events/6343363/live.m3u8?
+
+#EXTINF:-1,Latinos:Tv Mexiquense
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8?
+
+#EXTINF:-1,Latinos:TecTV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Latinos:Canal 22
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
+
+#EXTINF:-1,Latinos:TV UNAM
+http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8?
+
+#EXTINF:-1,Latinos:Canal 4 Monclova
+http://192.163.250.253:1935/live/canal4/playlist.m3u8?
+
+#EXTINF:-1,Latinos:Latin Angels
+https://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8?
+
+#EXTINF:-1,Latinos:Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1,Latinos:RCN
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?
+
+#EXTINF:-1,Latinos:Unicanal
+http://strm.unicanal.com.py/live/unicanal_src.m3u8?
+
+#EXTINF:-1,Latinos:RT en EspaÃ±ol
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8?
+
+#EXTINF:-1,Latinos:Unimas
+http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
+
+#EXTINF:-1,Latinos:Locomotion
+http://locomotiontv.com/envivo/loco_app/stream.m3u8
+
+#EXTINF:-1,Latinos:Chilevision
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+
+#EXTINF:-1,Latinos:COSMOVISION
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+
+#EXTINF:-1,Latinos:Hola TV
+https://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8?
+
+#EXTINF:-1,Latinos:AyM Sports
+https://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8?
+
+#EXTINF:-1,Latinos:TV Chile
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+
+#EXTINF:-1,Latinos:Cablenoticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+
+#EXTINF:-1,Latinos:Canal Capital
+http://us-b2-p-e-sx6.cdn.mdstrm.com/live-stream/57d01d6c28b263eb73b59a5a/publish/media_500.m3u8?dnt=true&es=us-b2-p-e-sx6.cdn.mdstrm.com&ote=1506105524968&ot=PhcZX6iEf6naqlTvLiSrJA&proto=http
+
+#EXTINF:-1,Latinos:NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
+
+#EXTINF:-1,Latinos:Wapa
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535532/index_150_av-p.m3u8
+
+#EXTINF:-1,Latinos:NiuMedia
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+
+#EXTINF:-1,Latinos:ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Latinos:Las estrellas opc2
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:-1,Latinos:Multimedios
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1,Latinos:Sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?iptvgratis?Latinos.m3u8?
+
+#EXTINF:-1,Latinos:Ve Plus
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?iptvgratis?Latinos.m3u8?
+
+#EXTINF:-1,Latinos:A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Latinos:Trendy Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+
+#EXTINF:-1,Latinos:ForoTV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1048_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Latinos:Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+
+#EXTINF:-1,Latinos:Telpin
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?
+
+#EXTINF:-1,Latinos:Uno
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
+
+#EXTINF:-1,Latinos:Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1,Latinos:TyCSports
+https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
+
+#EXTINF:-1,Latinos:Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Latinos:Cantinazo TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+
+#EXTINF:-1,Latinos:Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1,Latinos:Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?Latinos.m3u8
+
+#EXTINF:-1,Latinos:Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+
+#EXTINF:-1,Latinos:MiMusica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+#EXTINF:-1,Latinos:SON POPULAR
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+
+#EXTINF:-1,Latinos:Virgin Music
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+
+#EXTINF:-1,MC Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1,Latinos:Vibee TV
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+
+#EXTINF:-1,Latinos:RetroTV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,Latinos:DW Latino
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Latinos:TravelHD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+
+#EXTINF:-1,Latinos:Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+
+#EXTINF:-1,Latinos:Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1,Latinos:Televida
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+
+#EXTINF:-1,Latinos:La Voz de Maria
+http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2115659573.m3u8
+
+#EXTINF:-1,Latinos:Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?iptvgratis?Latinos.m3u8
+
+#EXTINF:-1,Latinos:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
+
+#EXTINF:-1,Latinos:Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1,Latinos:CNN
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+
+#EXTINF:-1,Latinos:Canal Carnaval 38
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
+
+#EXTINF:-1,Latinos:ITV
+http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/chunklist_w204765687.m3u8
+
+#EXTINF:-1,Latinos:TV Red
+http://69.164.193.177:1935/live/myStream/chunklist_w561342168.m3u8
+
+#EXTINF:-1,Latinos:UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1,Latinos:VTV
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
+
+#EXTINF:-1,Latinos:VTV 2
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+
+#EXTINF:-1,24/7:Los Simpson
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?
+
+#EXTINF:-1,24/7:Los Simpsons opc 2
+http://stream.latino-webtv.com/series/simpsons.mp4
+
+#EXTINF:-1,24/7:Futurama
+http://1.sendvid.com/btgbuzr7.mp4/
+
+#EXTINF:-1,EspaÃ±a:Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+
+#EXTINF:-1,EspaÃ±a:Antena 3 Internacional
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-1,EspaÃ±a:Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EspaÃ±a:NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EspaÃ±a:MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+
+#EXTINF:-1,EspaÃ±a:8 TV EspaÃ±a
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+
+#EXTINF:-1,EspaÃ±a:13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+
+#EXTINF:-1,EspaÃ±a:HispanTV
+http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
+
+#EXTINF:-1,ESPAÃ‘A:Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:-1,EspaÃ±a:La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1,EspaÃ±a:TVE 24hrs
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EspaÃ±a:Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+#EXTINF:-1,USA:Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,USA:SPACE
+http://200.89.190.162/live/live/SpaceHD/SA_Live/SpaceHD-video=7528000.m3u8
+
+#EXTINF:-1,USA:NASA TV
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+
+#EXTINF:-1,USA:Weather Nation TV
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?
+
+#EXTINF:-1,USA:Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
+
+#EXTINF:-1,USA:CBN News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?
+
+#EXTINF:-1,USA:DW USA
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8?
+
+#EXTINF:-1,USA:FOX News
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8?
+
+#EXTINF:-1,USA:Silence TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8?/MartinRTNEWS.m3u8
+
+#EXTINF:-1,USA:Earth TV
+http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8?
+
+#EXTINF:-1,Asiaticos:Fuji TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs05.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:Japan
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs06.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:Asahi
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:12
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:NTV
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs02.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:TBS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs04.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:Disney Channel
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs20.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:Canal 01
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs18.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:Music Japan
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:Canal 02
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs13.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:Kids Station
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs12.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:Movie Plus
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:J Sports
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs09.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:Golf Live
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:Gaora Sports
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs01.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:S
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:Motor Games
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs07.stream/playlist.m3u8
+
+#EXTINF:-1,Asiaticos:Canal 03
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs05.stream/playlist.m3u8
+          
