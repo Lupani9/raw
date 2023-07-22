@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1,ATV HD / FREE
+http://190.92.25.125:8000/play/a030/index.m3u8
+#EXTINF:-1,ATV SUR HD / FREE
+http://190.92.25.125:8000/play/a031/index.m3u8
+#EXTINF:-1,ATV+ HD / FREE
+http://190.92.25.125:8000/play/a032/index.m3u8
+#EXTINF:-1,CCI Channel / FREE
+http://190.92.25.125:8000/play/a00p/index.m3u8
+#EXTINF:-1,CIELO TV / FREE
+http://190.92.25.125:8000/play/a03c/index.m3u8
+#EXTINF:-1,Canal 11 / FREE
+http://190.92.25.125:8000/play/a00o/index.m3u8
+#EXTINF:-1,Canal 11 SLV Main / FREE
+http://190.92.25.125:8000/play/a02y/index.m3u8
+#EXTINF:-1,Canal 12 SLV Bypass / FREE
+http://190.92.25.125:8000/play/a02x/index.m3u8
+#EXTINF:-1,Canal 30 / FREE
+http://190.92.25.125:8000/play/a02u/index.m3u8
+#EXTINF:-1,ConCiencia TV / FREE
+http://190.92.25.125:8000/play/a03a/index.m3u8
+#EXTINF:-1,Coral 39 / FREE
+http://190.92.25.125:8000/play/a00y/index.m3u8
+#EXTINF:-1,DTV / FREE
+http://190.92.25.125:8000/play/a00l/index.m3u8
+#EXTINF:-1,Ecuavisa HD / FREE
+http://190.92.25.125:8000/play/a016/index.m3u8
+#EXTINF:-1,Ecuavisa Inter / FREE
+http://190.92.25.125:8000/play/a015/index.m3u8
+#EXTINF:-1,Global / FREE
+http://190.92.25.125:8000/play/a02z/index.m3u8
+#EXTINF:-1,Global HD / FREE
+http://190.92.25.125:8000/play/a034/index.m3u8
+#EXTINF:-1,Globovision / FREE
+http://190.92.25.125:8000/play/a039/index.m3u8
+#EXTINF:-1,HCH / FREE
+http://190.92.25.125:8000/play/a00n/index.m3u8
+#EXTINF:-1,JBN / FREE
+http://190.92.25.125:8000/play/a00q/index.m3u8
+#EXTINF:-1,LA TELE HD / FREE
+http://190.92.25.125:8000/play/a033/index.m3u8
+#EXTINF:-1,LA VOZ DE MARIA / FREE
+http://190.92.25.125:8000/play/a00v/index.m3u8
+#EXTINF:-1,LA VOZ DE MARIA / FREE
+http://190.92.25.125:8000/play/a081/index.m3u8
+#EXTINF:-1,Nuevo Mundo / FREE
+http://190.92.25.125:8000/play/a00t/index.m3u8
+#EXTINF:-1,OFCAM ESPN
+http://190.92.25.125:8000/play/a06w/index.m3u8
+#EXTINF:-1,OFCAM ESPN 2
+http://190.92.25.125:8000/play/a07f/index.m3u8
+#EXTINF:-1,OFCAM ESPN 2 Latin
+http://190.92.25.125:8000/play/a06v/index.m3u8
+#EXTINF:-1,OFCAM ESPN 3
+http://190.92.25.125:8000/play/a07p/index.m3u8
+#EXTINF:-1,OFCAM ESPN CO
+http://190.92.25.125:8000/play/a07u/index.m3u8
+#EXTINF:-1,OFCAM GOL TV
+http://190.92.25.125:8000/play/a06x/index.m3u8
+#EXTINF:-1,OFCAM HBO
+http://190.92.25.125:8000/play/a07j/index.m3u8
+#EXTINF:-1,OFCAM HBO 2
+http://190.92.25.125:8000/play/a079/index.m3u8
+#EXTINF:-1,OFCAM HBO Family
+http://190.92.25.125:8000/play/a07c/index.m3u8
+#EXTINF:-1,OFCAM HBO Plus
+http://190.92.25.125:8000/play/a07a/index.m3u8
+#EXTINF:-1,OFCAM HBO XTREME SD
+http://190.92.25.125:8000/play/a07b/index.m3u8
+#EXTINF:-1,OFCAM NPY
+http://190.92.25.125:8000/play/a07v/index.m3u8
+#EXTINF:-1,OFCAM Telefe
+http://190.92.25.125:8000/play/a07n/index.m3u8
+#EXTINF:-1,OFCAM Telemundo
+http://190.92.25.125:8000/play/a075/index.m3u8
+#EXTINF:-1,OFCAM TyC
+http://190.92.25.125:8000/play/a06y/index.m3u8
+#EXTINF:-1,OFCAM Universal Cinema SD
+http://190.92.25.125:8000/play/a07h/index.m3u8
+#EXTINF:-1,OFCAM Universal Comedy SD
+http://190.92.25.125:8000/play/a07i/index.m3u8
+#EXTINF:-1,OFCAM Universal Premiere SD
+http://190.92.25.125:8000/play/a07g/index.m3u8
+#EXTINF:-1,OFCAM Canal Estrellas
+http://190.92.25.125:8000/play/a074/index.m3u8
+#EXTINF:-1,OFCAM Fox Sports 2
+http://190.92.25.125:8000/play/a082/index.m3u8
+#EXTINF:-1,Qhubo TV / FREE
+http://190.92.25.125:8000/play/a00m/index.m3u8
+#EXTINF:-1,RTN Canal Caracol
+http://190.92.25.125:8000/play/a07r/index.m3u8
+#EXTINF:-1,RTN Canal RCN
+http://190.92.25.125:8000/play/a07s/index.m3u8
+#EXTINF:-1,RTN Canal Uno
+http://190.92.25.125:8000/play/a07q/index.m3u8
+#EXTINF:-1,RTN ESPN 4
+http://190.92.25.125:8000/play/a06u/index.m3u8
+#EXTINF:-1,RTN Fox Sports 1
+http://190.92.25.125:8000/play/a078/index.m3u8
+#EXTINF:-1,RTN Mega
+http://190.92.25.125:8000/play/a076/index.m3u8
+#EXTINF:-1,RTN TNT SPORTS 2
+http://190.92.25.125:8000/play/a077/index.m3u8
+#EXTINF:-1,RTN TNT SPORTS 3
+http://190.92.25.125:8000/play/a06z/index.m3u8
+#EXTINF:-1,RTN Teleamazonas
+http://190.92.25.125:8000/play/a07t/index.m3u8
+#EXTINF:-1,RTN Teleantioquia
+http://190.92.25.125:8000/play/a07k/index.m3u8
+#EXTINF:-1,RTN Telepacifico
+http://190.92.25.125:8000/play/a07m/index.m3u8
+#EXTINF:-1,RTN 24 HORAS
+http://190.92.25.125:8000/play/a07d/index.m3u8
+#EXTINF:-1,RTN Win
+http://190.92.25.125:8000/play/a07l/index.m3u8
+#EXTINF:-1,RTV / FREE
+http://190.92.25.125:8000/play/a00r/index.m3u8
+#EXTINF:-1,SUYAPA EDUCATIVA / FREE
+http://190.92.25.125:8000/play/a036/index.m3u8
+#EXTINF:-1,SUYAPA TV / FREE
+http://190.92.25.125:8000/play/a035/index.m3u8
+#EXTINF:-1,TELEPROGRESO / FREE
+http://190.92.25.125:8000/play/a012/index.m3u8
+#EXTINF:-1,TELESUR / FREE
+http://190.92.25.125:8000/play/a03b/index.m3u8
+#EXTINF:-1,TEN/CA10 / FREE
+http://190.92.25.125:8000/play/a037/index.m3u8
+#EXTINF:-1,TV 12 / FREE
+http://190.92.25.125:8000/play/a02w/index.m3u8
+#EXTINF:-1,Teleantillas / FREE
+http://190.92.25.125:8000/play/a00x/index.m3u8
+#EXTINF:-1,Telemicro Internacional HD / FREE
+http://190.92.25.125:8000/play/a011/index.m3u8
+#EXTINF:-1,Telesistema 11 / FREE
+http://190.92.25.125:8000/play/a00w/index.m3u8
+#EXTINF:-1,Une TV / FREE
+http://190.92.25.125:8000/play/a00s/index.m3u8
+#EXTINF:-1,VTV / FREE
+http://190.92.25.125:8000/play/a02v/index.m3u8
+
+
