@@ -282,8 +282,6 @@ http://186.190.231.179:8000/play/a029/index.m3u8
 http://186.190.231.179:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="Universal",Universal
 http://186.190.231.179:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="Venus",Venus
-http://186.190.231.179:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="ViaX",ViaX
 http://186.190.231.179:8000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="Warner",Warner
