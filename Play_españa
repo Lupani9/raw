@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,LA 1
+http://91.126.182.211:9981/stream/channelid/1481653854?profile=pass
+#EXTINF:-1,LA 2
+http://91.126.182.211:9981/stream/channelid/1591417709?profile=pass
+#EXTINF:-1,Antena 3
+http://91.126.182.211:9981/stream/channelid/2028569190?profile=pass
+#EXTINF:-1,Cuatro
+http://91.126.182.211:9981/stream/channelid/578614384?profile=pass
+#EXTINF:-1,Telecinco
+http://91.126.182.211:9981/stream/channelid/1780379446?profile=pass
+#EXTINF:-1,La Sexta
+http://91.126.182.211:9981/stream/channelid/835495895?profile=pass
+#EXTINF:-1,#0
+http://91.126.182.211:9981/stream/channelid/1383452667?profile=pass
+#EXTINF:-1,M+ Estrenos
+http://91.126.182.211:9981/stream/channelid/1384605787?profile=pass
