@@ -280,7 +280,7 @@ http://170.82.37.21:8000/play/a02s/index.m3u8
 #EXTINF:-1,Multipremier
 http://177.53.153.21:8001/play/a0a8/index.m3u8
 #EXTINF:-1,FMH Family HD
-http://160.20.165.246:8000/play/a01j/index.m3u8
+http://186.10.252.90:8000/play/a02i
 #EXTINF:-1,TNT HD
 http://45.184.111.158:8000/play/a00e/index.m3u8
 #EXTINF:-1,TNT Series HD
@@ -323,14 +323,12 @@ http://45.173.201.6:8000/play/a036/index.m3u8
 http://191.52.214.5:8000/play/a02u/index.m3u8
 #EXTINF:-1,National Geographic
 http://177.53.153.21:8001/play/a05r/index.m3u8
-#EXTINF:-1,History Channel HD
-http://190.95.220.212:8000/play/a00x/index.m3u8
 #EXTINF:-1,History HD
-http://177.53.153.21:8001/play/a064/index.m3u8
+http://45.4.3.75:7700/play/a02g
 #EXTINF:-1,History 2 HD
-http://177.53.153.21:8001/play/a04f/index.m3u8
+http://45.4.3.75:7700/play/a02b
 #EXTINF:-1,Love Nature HD
-http://177.53.153.21:8001/play/a044/index.m3u8
+http://45.4.3.75:7700/play/a021
 #EXTINF:-1,Animal Planet HD
 http://190.216.162.154:8001/play/a08s
 #EXTINF:-1,Discovery Channel HD
@@ -344,43 +342,40 @@ http://209.45.81.84:8000/play/a01m
 #EXTINF:-1,Discovery HD
 http://190.90.251.18:8000/play/a016
 #EXTINF:-1,Discovery ID HD
-http://177.53.153.21:8001/play/a0av/index.m3u8
+http://45.4.3.75:7700/play/a00g
 #EXTINF:-1,Discovery Science
 http://177.53.153.21:8001/play/a04q/index.m3u8
 #EXTINF:-1,Discovery Turbo
 http://190.109.22.229:9991/play/a089/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://209.45.81.84:8000/play/a023
-#EXTINF:-1,Cartoon Network HD
-http://177.53.153.21:8001/play/a03d/index.m3u8
+#EXTINF:-1,cartoon network
+http://45.238.21.84:8000/play/a07l
 #EXTINF:-1,Cartoonito
-http://177.53.153.21:8001/play/a05h/index.m3u8
+http://45.228.234.193:16002/play/a0b9/index.m3u8
 #EXTINF:-1,Disney HD
 http://209.45.81.84:8000/play/a02k
 #EXTINF:-1,Disney JR
-http://177.53.153.21:8001/play/a05i/index.m3u8
+http://45.238.21.84:8000/play/a094
 #EXTINF:-1,Discovery Kids HD
-http://177.53.153.21:8001/play/a02o/index.m3u8
+http://45.4.3.75:7700/play/a00l
 #EXTINF:-1,Nick HD
-http://177.53.153.21:8001/play/a023/index.m3u8
+http://45.238.21.84:8000/play/a06b
 #EXTINF:-1,Nick Jr
-http://177.53.153.21:8001/play/a01a/index.m3u8
+http://45.238.21.84:8000/play/a094
 #EXTINF:-1,Nickelodeon
-http://177.53.153.21:8001/play/a09v/index.m3u8
+http://45.238.21.84:8000/play/a09d
 #EXTINF:-1,Teen Nick
 http://209.45.91.207:7878/play/a01b/index.m3u8
 #EXTINF:-1,Baby First
-http://177.53.153.21:8001/play/a078/index.m3u8
-#EXTINF:-1,Baby TV
-http://177.53.153.21:8001/play/a04k/index.m3u8
+http://45.238.21.84:8000/play/a09u
 #EXTINF:-1,Lolly Kids HD
 http://209.45.91.207:7878/play/a033/index.m3u8
 #EXTINF:-1,Travelxp HD
-http://177.53.153.21:8001/play/a02m/index.m3u8
+http://45.238.21.84:8000/play/a06v
 #EXTINF:-1,E!  HD
-http://177.53.153.21:8001/play/a06b/index.m3u8
-#EXTINF:-1,E! HD
-http://177.53.153.21:8001/play/a03s/index.m3u8
+http://45.238.21.84:8000/play/a080
+#EXTINF:-1,gourmet
 http://45.173.201.6:8000/play/a025/index.m3u8
 EXTINF:-1,LIFE TIME
 http://45.228.234.193:16002/play/a0bk/index.m3u8
@@ -389,24 +384,23 @@ http://45.184.111.158:8000/play/a01k/index.m3u8
 #EXTINF:-1, HGTV HD
 http://45.238.20.129:8000/play/a01f
 #EXTINF:-1,Mas Chic
-http://177.53.153.21:8001/play/a04m/index.m3u8
+http://45.228.234.193:16002/play/a0as/index.m3u8
 #EXTINF:-1,HOLA TV HD
 http://209.45.91.207:7878/play/a01k/index.m3u8
 #EXTINF:-1,71-Glitz*
 http://200.114.65.7:8000/play/a0mt/index.m3u8
-http://177.53.153.21:8001/play/a08t/index.m3u8
 #EXTINF:-1,Food Network HD
-http://177.53.153.21:8001/play/a03v/index.m3u8
+http://45.4.3.75:7700/play/a01r
 #EXTINF:-1,TRUTV HD
-http://177.53.153.21:8001/play/a02k/index.m3u8
+http://45.4.3.75:7700/play/a00h
 #EXTINF:-1,Home Garden Latino
-http://177.53.153.21:8001/play/a04p/index.m3u8
+http://45.228.234.193:16002/play/a0av/index.m3u8.
 #EXTINF:-1,Sun Channel HD
-http://209.45.91.207:7878/play/a029/index.m3u8
+http://45.4.3.75:7700/play/a00k
 #EXTINF:-1,ESPN HD
-http://191.98.179.21:50000/play/a00j/index.m3u8
+http://45.4.3.74:7700/play/a01n
 #EXTINF:-1,ESPN 2 HD
-http://191.98.179.21:50000/play/a00f/index.m3u8
+http://45.179.140.242:8000/play/a0id
 #EXTINF:-1,ESPN 3 HD
 http://191.98.179.21:50000/play/a00r/index.m3u8
 #EXTINF:-1,ESPN 4 HD
@@ -420,13 +414,13 @@ http://201.218.137.232:4123/play/a056/index.m3u8
 #EXTINF:-1,Sky Sports / Espn+
 http://168.228.194.33:48001/play/a0au/index.m3u8
 #EXTINF:-1,Fox Sports 1 HD
-http://191.98.179.21:50000/play/a02d/index.m3u8
+http://45.238.21.84:8000/play/a08z
 #EXTINF:-1,FOX Sports 2 HD
-http://191.98.179.21:50000/play/a01a/index.m3u8
+http://45.176.232.106:45001/play/a00s
 #EXTINF:-1,Fox Sports 3 HD
-http://191.98.179.21:50000/play/a00s/index.m3u8
+http://45.238.21.84:8000/play/a0af
 #EXTINF:-1,TNT SPORTS HD
-http://191.98.179.21:50000/play/a00a/index.m3u8
+http://45.4.3.75:7700/play/a02m
 #EXTINF:-1,TyC Sports HD
 http://191.98.179.21:50000/play/a01v/index.m3u8
 #EXTINF:-1,117.4 - Tigo Sports HD
@@ -435,34 +429,14 @@ http://201.218.137.232:4123/play/a00s/index.m3u8
 http://201.218.137.232:4123/play/a00t/index.m3u8
 #EXTINF:-1,117.6 - Claro Sports 2 HD
 http://201.218.137.232:4123/play/a00u/index.m3u8
-#EXTINF:-1,Directv +
-http://177.53.153.21:8001/play/a00i/index.m3u8
-#EXTINF:-1,DIRECTV SPORTS 1 HD (ᴀʀɢ)
-http://168.228.194.33:48001/play/a0ba/index.m3u8
-#EXTINF:-1,DIRECTV SPORTS 2 HD (ᴀʀɢ)
-http://168.228.194.33:48001/play/a0bb/index.m3u8
 #EXTINF:-1, GolTV
 http://45.238.20.129:8000/play/a00m
 #EXTINF:-1,Win Sports HD
 http://45.225.95.171:8589/play/a02p
 #EXTINF:-1,Win Sports+ HD
-http://45.225.95.171:8589/play/a01f
+http://45.4.3.75:7700/play/a01f
 #EXTINF:-1,CDO Premium
 http://177.53.153.21:8001/play/a01l/index.m3u8
-#EXTINF:-1,,TUDN HD (ᴜsᴀ)
-http://168.228.194.33:48001/play/a0b9/index.m3u8
-#EXTINF:-1 ,TUDN ʜᴅ (ᴍx)
-http://168.228.194.33:48001/play/a0at/index.m3u8
-#EXTINF:-1,beIN SPORTS HD
-http://168.228.194.33:48001/play/a002/index.m3u8
-#EXTINF:-1,beIN SPORTS XTRA ñ HD
-http://168.228.194.33:48001/play/a003/index.m3u8
-EXTINF:-1 Deportes TD+2 HD CR
-http://168.228.194.33:48001/play/a00w/index.m3u8
-#EXTINF:-1 Deportes TD+HD CR
-http://168.228.194.33:48001/play/a00v/index.m3u8
-#EXTINF:-1,Movistar Liga de Campeones HD
-http://168.228.194.33:48001/play/a0bi/index.m3u8
 #EXTINF:-1,Telehit HD
 http://209.45.91.207:7878/play/a02q/index.m3u8
 #EXTINF:-1,Univision HD
