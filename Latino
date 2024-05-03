@@ -9,12 +9,6 @@ https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
 https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 #EXTINF:-1,BNB pucallpa
 http://179.1.144.98:8000/play/a04z
-#EXTINF:-1,002 - Latina SD
-http://38.43.150.120:8000/play/a00i/index.m3u8
-#EXTINF:-1,004 - America TV HD
-http://38.43.150.120:8000/play/a03g/index.m3u8
-#EXTINF:-1,004 - AmericaTV SD
-http://38.43.150.120:8000/play/a00j/index.m3u8
 #EXTINF:-1,005 - Panamericana TV SD
 http://38.43.150.120:8000/play/a00k/index.m3u8
 #EXTINF:-1,006 - RPP
