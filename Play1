@@ -222,9 +222,9 @@ http://191.98.179.21:50000/play/a008/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://190.95.220.212:8000/play/a03t/index.m3u8
 #EXTINF:-1, Cinecanal HD
-http://186.190.231.179:8000/play/a00z/index.m3u8
+http://190.95.220.212:8000/play/a01l/index.m3u8
 #EXTINF:-1,Cinemax HD
-http://186.190.231.179:8000/play/a031/index.m3u8
+http://190.95.220.212:8000/play/a01w/index.m3u8
 #EXTINF:-1,Cine Latino
 http://177.53.153.21:8001/play/a0a9/index.m3u8
 #EXTINF:-1,Clover HD
@@ -272,7 +272,7 @@ http://209.45.91.207:7878/play/a02p/index.m3u8
 #EXTINF:-1,Golden
 http://209.45.81.84:8000/play/a003
 #EXTINF:-1,Golden Edge
-http://186.190.231.179:8000/play/a04z/index.m3u8
+http://190.95.220.212:8000/play/a01k/index.m3u8
 #EXTINF:-1, Golden Premiere HD
 http://45.228.234.193:16002/play/a0b3/index.m3u8
 #EXTINF:-1,Multicinema
@@ -318,7 +318,7 @@ http://45.228.234.193:16002/play/a0cs/index.m3u8
 #EXTINF:-1,STAR ACTION HD
 http://45.170.225.210:58001/play/a011/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
-http://45.173.201.6:8000/play/a036/index.m3u8
+http://190.95.220.212:8000/play/a03u/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://191.52.214.5:8000/play/a02u/index.m3u8
 #EXTINF:-1,National Geographic
