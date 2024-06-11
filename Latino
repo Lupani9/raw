@@ -91,28 +91,28 @@ http://181.205.77.118:4849/play/CH102
 https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Argentina",Cronica TV
 http://181.78.27.128:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.Peli" tvg-logo="https://i.ibb.co/qBjRTwR/images-1.jpg" group-title="Peliculas",Cinemax
-http://181.205.77.118:4849/play/CH33
+#EXTINF:-1 tvg-id="Cinecanal.Peli" tvg-logo="https://i.ibb.co/qBjRTwR/images-1.jpg" group-title="Peliculas",cinecanal
+http://177.234.250.25:8000/play/a0lk/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.Peli" tvg-logo="https://i.ibb.co/dfQXG8d/descarga-4.png" group-title="Peliculas",Cinemax
-http://181.205.77.118:4849/play/CH57
+http://177.234.250.25:8000/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-id="Comedy Central.Peli" tvg-logo="https://i.ibb.co/cJR5ch6/descarga-2.png" group-title="Peliculas",Comedy Central
-http://181.205.77.118:4849/play/CH50
+http://38.137.198.71:9000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="DHE.Peli" tvg-logo="https://i.ibb.co/X7D2MM6/descarga-1.png" group-title="Peliculas",DHE
-http://181.205.77.118:4849/play/CH51
+http://38.137.198.71:9000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel.Cul" tvg-logo="https://i.ibb.co/DCmhFnm/descarga-1.png" group-title="Cultura",Discovery Channel
-http://181.205.77.118:4849/play/CH80
+http://177.234.250.25:8000/play/a0mc/index.m3u8
 #EXTINF:-1 tvg-id="Discovery H&H Channel.Cul" tvg-logo="https://i.ibb.co/88zBkk4/descarga-2.jpg" group-title="Cultura",Discovery H&H
 http://181.205.77.118:4849/play/CH80
 #EXTINF:-1 tvg-id="Discovery Kids Channel.Inf" tvg-logo="https://i.ibb.co/dkWz8k4/descarga-58.png" group-title="Infantil",Discovery Kids
 http://181.205.77.118:4849/play/CH71
 #EXTINF:-1 tvg-id="Disney .Inf" tvg-logo="https://i.ibb.co/KKykhRs/descarga-2.png" group-title="Infantil",Disney 
-http://201.219.11.178:8000/play/a021/index.m3u8
+http://177.234.250.25:8000/play/a0jw/index.m3u8
 #EXTINF:-1 tvg-id="Disney jr.Inf" tvg-logo="https://i.ibb.co/SJpN047/descarga-57.png" group-title="Infantil",Disney jr
-http://181.205.77.118:4849/play/CH71
+http://177.234.250.25:8000/play/a0t0/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Theater Channel.Cul" tvg-logo="https://i.ibb.co/9HbDNST/descarga-30.png" group-title="Cultura",Discovery Theater
 http://181.205.77.118:4849/play/CH86
 #EXTINF:-1 tvg-id="Discovery Turbo Channel.Cul" tvg-logo="https://i.ibb.co/FnjPp8c/descarga-32.png" group-title="Cultura",Discovery Turbo
-http://181.205.77.118:4849/play/CH90
+http://177.234.250.25:8000/play/a0dm/index.m3u8
 #EXTINF:-1 tvg-id="Discovery World Channel.Cul" tvg-logo="https://i.ibb.co/RQmSKDx/descarga-5.jpg" group-title="Cultura",Discovery Wordl
 http://181.205.77.118:4849/play/CH84
 #EXTINF:-1 tvg-id="Discovery ID Channel.Cul" tvg-logo="https://i.ibb.co/QkwcCNH/descarga-16.png" group-title="Cultura",Discovery ID
