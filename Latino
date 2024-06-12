@@ -3,14 +3,14 @@
 http://181.205.77.118:4849/play/CH67
 #EXTINF:-1 tvg-id="AMC.Peli" tvg-logo="https://i.ibb.co/8685W2J/images-1.png" group-title="Peliculas",AMC
 http://181.205.77.118:4849/play/CH63
-#EXTINF:-1 tvg-id="Animal Planet.Peli" tvg-logo="https://i.ibb.co/5s0cLJr/images-4.png" group-title="Culturas",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet.Peli" tvg-logo="https://i.ibb.co/5s0cLJr/images-4.png" group-title="Cultura",Animal Planet
 http://181.205.77.118:4849/play/a09e
 #EXTINF:-1 tvg-id="Atres Series.Entret" tvg-logo="https://i.ibb.co/DtLH8hK/descarga-1.png" group-title="Entretenimiento",Atres Series
 http://181.205.77.118:4849/play/CH63
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.ibb.co/WWp5g5P/descarga.png" group-title="Argentina" A24
 http://209.45.101.38:8889/play/a09x
 #EXTINF:-1 tvg-id="America.PE" tvg-logo="https://i.ibb.co/L6GsKy2/images.png" group-title="Peru",América TV
-http://45.235.37.254:8370/play/a028
+http://177.126.51.9:8001/play/a003
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Mexico",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://i.imgur.com/HBOHkgL.png" group-title="Mexico",Afizzionados
@@ -179,11 +179,11 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 http://181.205.77.118:4849/play/CH68
 #EXTINF:-1 tvg-id="HBO Xtreme.Peli" tvg-logo="https://i.ibb.co/w79VqHh/descarga-5.png" group-title="Peliculas",HBO XTreme
 http://181.205.77.118:4849/play/CH37
-#EXTINF:-1 tvg-id="History.cult" tvg-logo="https://i.ibb.co/pPPBvrg/descarga-12.jpg" group-title="Culturas",History
+#EXTINF:-1 tvg-id="History.cult" tvg-logo="https://i.ibb.co/pPPBvrg/descarga-12.jpg" group-title="Cultura",History
 http://181.205.77.118:4849/play/CH1
-#EXTINF:-1 tvg-id="History 2.cult" tvg-logo="https://i.ibb.co/vhG63d9/descarga-11.jpg" group-title="Culturas",History 2
+#EXTINF:-1 tvg-id="History 2.cult" tvg-logo="https://i.ibb.co/vhG63d9/descarga-11.jpg" group-title="Cultura",History 2
 http://181.205.77.118:4849/play/CH78
-#EXTINF:-1 tvg-id="Hola Tv.cult" tvg-logo="https://i.ibb.co/HqD2Jk4/descarga-44.png" group-title="Culturas",Hola Tv
+#EXTINF:-1 tvg-id="Hola Tv.cult" tvg-logo="https://i.ibb.co/HqD2Jk4/descarga-44.png" group-title="Cultura",Hola Tv
 http://181.205.77.118:4849/play/CH123
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="Mexico",Imagen TV
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
