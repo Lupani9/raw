@@ -277,3 +277,200 @@ http://200.121.48.5:8081/play/a0ct/index.m3u8
 http://161.132.112.34:9000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="Wins" tvg-name="Wins" tvg-logo="https://i.ibb.co/CmHKj7g/descarga-3.png" group-title="Deporte",Wins
 http://200.121.48.5:8081/play/a0k2/index.m3u8
+#EXTINF:-1,A&E
+http://190.102.139.129:8090/play/a0ho
+#EXTINF:-1,AMC HD
+http://190.102.139.129:8090/play/a0hp
+#EXTINF:-1,ATV
+http://190.102.139.129:8090/play/a0da
+#EXTINF:-1,ATV +HD
+http://190.102.139.129:8090/play/a0io
+#EXTINF:-1,AXN HD
+http://190.102.139.129:8090/play/a0iz
+#EXTINF:-1,Adult Swim
+http://190.102.139.129:8090/play/a0jx
+#EXTINF:-1,America TV HD
+http://190.102.139.129:8090/play/a0bw
+#EXTINF:-1,Animal Planet HD
+http://190.102.139.129:8090/play/a0j4
+#EXTINF:-1,BETHEL TV
+http://190.102.139.129:8090/play/a0dy
+#EXTINF:-1,BOX TV
+http://190.102.139.129:8090/play/a0i7
+#EXTINF:-1,CNN Espaæol
+http://190.102.139.129:8090/play/a0el
+#EXTINF:-1,CNN International
+http://190.102.139.129:8090/play/a0ek
+#EXTINF:-1,Canal N
+http://190.102.139.129:8090/play/a0ha
+#EXTINF:-1,Cartoon Network
+http://190.102.139.129:8090/play/a0jm
+#EXTINF:-1,Cartoonito
+http://190.102.139.129:8090/play/a0jq
+#EXTINF:-1,Cinecanal HD
+http://190.102.139.129:8090/play/a0iy
+#EXTINF:-1,Cinemax
+http://190.102.139.129:8090/play/a0gt
+#EXTINF:-1,Comedy Central HD
+http://190.102.139.129:8090/play/a0do
+#EXTINF:-1,De PelŦcula
+http://190.102.139.129:8090/play/a0j3
+#EXTINF:-1,Discovery Channel  HD
+http://190.102.139.129:8090/play/a0j5
+#EXTINF:-1,Discovery H&H HD
+http://190.102.139.129:8090/play/a0jn
+#EXTINF:-1,Discovery Kids HD
+http://190.102.139.129:8090/play/a0jl
+#EXTINF:-1,Discovery Theater HD
+http://190.102.139.129:8090/play/a0cx
+#EXTINF:-1,Disney HD
+http://190.102.139.129:8090/play/a0j9
+#EXTINF:-1,Disney Junior
+http://190.102.139.129:8090/play/a0eo
+#EXTINF:-1,Distrito Comedia
+http://190.102.139.129:8090/play/a0cu
+#EXTINF:-1,E! Entertainment TV
+http://190.102.139.129:8090/play/a0js
+#EXTINF:-1,ESPN 2
+http://190.102.139.129:8090/play/a0cm
+#EXTINF:-1,ESPN 3 HD
+http://190.102.139.129:8090/play/a0jb
+#EXTINF:-1,ESPN 4HD
+http://190.102.139.129:8090/play/a0jc
+#EXTINF:-1,ESPN 5HD
+http://190.102.139.129:8090/play/a0jd
+#EXTINF:-1,ESPN 6HD
+http://190.102.139.129:8090/play/a0dj
+#EXTINF:-1,ESPN 7HD
+http://190.102.139.129:8090/play/a0e6
+#EXTINF:-1,ESPN HD
+http://190.102.139.129:8090/play/a0ja
+#EXTINF:-1,ESPN HD
+http://190.102.139.129:8090/play/a0bu
+#EXTINF:-1,EXITOSA
+http://190.102.139.129:8090/play/a07y
+#EXTINF:-1,Enlace
+http://190.102.139.129:8090/play/a0jw
+#EXTINF:-1,FIB PELICULAS
+http://190.102.139.129:8090/play/a0in
+#EXTINF:-1,FMH FAMILY
+http://190.102.139.129:8090/play/a0gj
+#EXTINF:-1,FMH FAMILY KIDS
+http://190.102.139.129:8090/play/a0gk
+#EXTINF:-1,FMH FAMILY MOVIE
+http://190.102.139.129:8090/play/a0gl
+#EXTINF:-1,FOX SPORT PREMIUM
+http://190.102.139.129:8090/play/a083
+#EXTINF:-1,Food Network HD
+http://190.102.139.129:8090/play/a0jy
+#EXTINF:-1,GLOBAL
+http://190.102.139.129:8090/play/a0dc
+#EXTINF:-1,GOL PERU HD
+http://190.102.139.129:8090/play/a0gx
+#EXTINF:-1,Gol TV
+http://190.102.139.129:8090/play/a0gv
+#EXTINF:-1,Golden Edge
+http://190.102.139.129:8090/play/a0co
+#EXTINF:-1,HBO 2
+http://190.102.139.129:8090/play/a0ct
+#EXTINF:-1,HBO Family HD
+http://190.102.139.129:8090/play/a0h5
+#EXTINF:-1,HBO HD
+http://190.102.139.129:8090/play/a0h9
+#EXTINF:-1,HBO Plus
+http://190.102.139.129:8090/play/a0cs
+#EXTINF:-1,HBO Signature
+http://190.102.139.129:8090/play/a0ht
+#EXTINF:-1,HBO XTREME HD
+http://190.102.139.129:8090/play/a0j0
+#EXTINF:-1,HTV
+http://190.102.139.129:8090/play/a0cj
+#EXTINF:-1,History 2
+http://190.102.139.129:8090/play/a0c6
+#EXTINF:-1,History Channel HD
+http://190.102.139.129:8090/play/a0j6
+#EXTINF:-1,ID HD
+http://190.102.139.129:8090/play/a0j8
+#EXTINF:-1,KANAL D DRAMA
+http://190.102.139.129:8090/play/a0jz
+#EXTINF:-1,KARIBEÑA
+http://190.102.139.129:8090/play/a08c
+#EXTINF:-1,LIGA 1 MAX
+http://190.102.139.129:8090/play/a08q
+#EXTINF:-1,Las Estrellas HD
+http://190.102.139.129:8090/play/a0iv
+#EXTINF:-1,Latina HD
+http://190.102.139.129:8090/play/a0c0
+#EXTINF:-1,MI MUSICA HITS
+http://190.102.139.129:8090/play/a0ge
+#EXTINF:-1,MI MUSICA PERU
+http://190.102.139.129:8090/play/a0gg
+#EXTINF:-1,MTV 00s HD
+http://190.102.139.129:8090/play/a0jo
+#EXTINF:-1,MTV HD
+http://190.102.139.129:8090/play/a0ew
+#EXTINF:-1,MTV LIVE HD
+http://190.102.139.129:8090/play/a0jk
+#EXTINF:-1,MUSIC FIB
+http://190.102.139.129:8090/play/a89
+#EXTINF:-1,NUEVO TIEMPO
+http://190.102.139.129:8090/play/AS01
+#EXTINF:-1,Nat Geo HD
+http://190.102.139.129:8090/play/a0j7
+#EXTINF:-1,Nick HD
+http://190.102.139.129:8090/play/a0d3
+#EXTINF:-1,Nick Jr
+http://190.102.139.129:8090/play/a0jr
+#EXTINF:-1,Nick Music
+http://190.102.139.129:8090/play/a0cc
+#EXTINF:-1,Panamericana
+http://190.102.139.129:8090/play/a0d8
+#EXTINF:-1,Paramount HD
+http://190.102.139.129:8090/play/a0dk
+#EXTINF:-1,RPP
+http://190.102.139.129:8090/play/a0db
+#EXTINF:-1,STAR CHANNEL HD
+http://190.102.139.129:8090/play/a0iw
+#EXTINF:-1,Sony HD
+http://190.102.139.129:8090/play/a0it
+#EXTINF:-1,Sony Movies
+http://190.102.139.129:8090/play/a0en
+#EXTINF:-1,Space HD
+http://190.102.139.129:8090/play/a0iu
+#EXTINF:-1,Studio Universal HD
+http://190.102.139.129:8090/play/a0bt
+#EXTINF:-1,TNT HD
+http://190.102.139.129:8090/play/a0is
+#EXTINF:-1,TNT Novelas HD
+http://190.102.139.129:8090/play/a0ir
+#EXTINF:-1,TNT Series HD
+http://190.102.139.129:8090/play/a0ix
+#EXTINF:-1,TV PERU
+http://190.102.139.129:8090/play/a0jg
+#EXTINF:-1,Teen Nick
+http://190.102.139.129:8090/play/a0et
+#EXTINF:-1,Telemundo
+http://190.102.139.129:8090/play/a0jt
+#EXTINF:-1,Telenovelas
+http://190.102.139.129:8090/play/a0i9
+#EXTINF:-1,Televicentro
+http://190.102.139.129:8090/play/a0hh
+#EXTINF:-1,Tooncast
+http://190.102.139.129:8090/play/a0ju
+#EXTINF:-1,UFC
+http://190.102.139.129:8090/play/A01E
+#EXTINF:-1,USA
+http://190.102.139.129:8090/play/a0cn
+#EXTINF:-1,Universal
+http://190.102.139.129:8090/play/a0j2
+#EXTINF:-1,Via X Esports
+http://190.102.139.129:8090/play/a0i3
+#EXTINF:-1,WEST TV
+http://190.102.139.129:8090/play/a0im
+#EXTINF:-1,WILLAX
+http://190.102.139.129:8090/play/a0ik
+#EXTINF:-1,Warner Channel HD
+http://190.102.139.129:8090/play/a0j1
+#EXTINF:-1,dtv sports
+http://190.102.139.129:8090/play/a0je
+
