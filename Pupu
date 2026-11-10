@@ -295,9 +295,9 @@ http://190.216.162.153:8001/play/a03t/index.m3u8
 http://38.137.192.250:8000/play/fe2s
 #EXTINF:-1 tvg-id="Movie" tvg-name="Movie" tvg-logo="https://i.ibb.co/Z6J8h4LJ/images-3.png" group-title="Premiun",Movie
 http://190.216.162.153:8001/play/a03t/index.m3u8
-#EXTINF:-1 tvg-id="Movie" tvg-name="Movie" tvg-logo="https://i.ibb.co/Z6J8h4LJ/images-3.png" group-title="Pelicula",Movie
+#EXTINF:-1 tvg-id="Movie" tvg-name="Movie" tvg-logo="https://i.ibb.co/Z6J8h4LJ/images-3.png" group-title="Premiun",Movie
 http://38.137.192.250:8000/play/okok
-#EXTINF:-1 tvg-id="Movie" tvg-name="Movie" tvg-logo="https://i.ibb.co/Z6J8h4LJ/images-3.png" group-title="Pelicula",Movie
+#EXTINF:-1 tvg-id="Movie" tvg-name="Movie" tvg-logo="https://i.ibb.co/Z6J8h4LJ/images-3.png" group-title="Premiun",Movie
 http://38.137.192.250:8000/play/cvmseries
 
 
