@@ -41,6 +41,79 @@ http://190.181.61.93:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="Red Uno" tvg-name="Red Uno" tvg-logo="https://i.ibb.co/MGF7D4t/descarga-3.png" group-title="Bolivia",Red Uno
 http://190.181.61.93:8000/play/a003/index.m3u8
 
+
+
+                       BRASIL
+
+#EXTINF:-1 group-title="Brasil",Fish TV HD
+http://189.75.136.46:8000/play/a019
+#EXTINF:-1 group-title="Brasil",Futura HD
+http://189.75.136.46:8000/play/a02k
+#EXTINF:-1 group-title="Brasil",GNT HD
+http://189.75.136.46:8000/play/a00p
+#EXTINF:-1 group-title="Brasil",GloboNews HD
+http://189.75.136.46:8000/play/a01d
+#EXTINF:-1 group-title="Brasil",Globoplay Novelas HD
+http://189.75.136.46:8000/play/a022
+#EXTINF:-1 group-title="Brasil",Gloob HD
+http://189.75.136.46:8000/play/a00n
+#EXTINF:-1 group-title="Brasil",HBO Family HD
+http://189.75.136.46:8000/play/a01n
+#EXTINF:-1 group-title="Brasil",HBO HD
+http://189.75.136.46:8000/play/a01k
+#EXTINF:-1 group-title="Brasil",HBO MUNDI HD
+http://189.75.136.46:8000/play/a01x
+#EXTINF:-1 group-title="Brasil",HBO POP HD
+http://189.75.136.46:8000/play/a01p
+#EXTINF:-1 group-title="Brasil",HBO Signature HD
+http://189.75.136.46:8000/play/a01o
+#EXTINF:-1 group-title="Brasil",HBO XTREME HD
+http://189.75.136.46:8000/play/a01y
+#EXTINF:-1 group-title="Brasil",HBO+ HD
+http://189.75.136.46:8000/play/a01m
+#EXTINF:-1 group-title="Brasil",HBO2 HD
+http://189.75.136.46:8000/play/a01l
+#EXTINF:-1 group-title="Brasil",HGTV HD
+http://189.75.136.46:8000/play/a02l
+#EXTINF:-1 group-title="Brasil",ID HD
+http://189.75.136.46:8000/play/a010
+#EXTINF:-1 group-title="Brasil",JP News HD
+http://189.75.136.46:8000/play/a02e
+#EXTINF:-1 group-title="Brasil",LMC+ HD
+http://189.75.136.46:8000/play/a03h
+#EXTINF:-1 group-title="Brasil",Lifetime HD
+http://189.75.136.46:8000/play/a037
+#EXTINF:-1 group-title="Brasil",Like HD
+http://189.75.136.46:8000/play/a017
+#EXTINF:-1 group-title="Brasil",Markket HD
+http://189.75.136.46:8000/play/a020
+#EXTINF:-1 group-title="Brasil",Modo Viagem HD
+http://189.75.136.46:8000/play/a00m
+#EXTINF:-1 group-title="Brasil",Multishow HD
+http://189.75.136.46:8000/play/a00q
+#EXTINF:-1 group-title="Brasil",NSPORTS HD
+http://189.75.136.46:8000/play/a007
+#EXTINF:-1 group-title="Brasil",OFF HD
+http://189.75.136.46:8000/play/a00l
+#EXTINF:-1 group-title="Brasil",Paramount+ 4
+http://189.75.136.46:8000/play/a02s
+#EXTINF:-1 group-title="Brasil",Premiere 2 HD
+http://189.75.136.46:8000/play/a00c
+#EXTINF:-1 group-title="Brasil",Premiere 3 HD
+http://189.75.136.46:8000/play/a01c
+#EXTINF:-1 group-title="Brasil",Premiere 4 HD
+http://189.75.136.46:8000/play/a00r
+#EXTINF:-1 group-title="Brasil",Premiere 5 HD
+http://189.75.136.46:8000/play/a00s
+#EXTINF:-1 group-title="Brasil",Premiere 6 HD
+http://189.75.136.46:8000/play/a03l
+#EXTINF:-1 group-title="Brasil",Premiere 7 HD
+http://189.75.136.46:8000/play/a03m
+#EXTINF:-1 group-title="Brasil",Premiere Clubes HD
+http://189.75.136.46:8000/play/a00b
+#EXTINF:-1 group-title="Brasil",RPC TV - Globo HD
+http://189.75.136.46:8000/play/a016
+
                         COLOMBIA
 
 #EXTINF:-1 tvg-id="City" tvg-name="City" tvg-logo="https://i.ibb.co/Qk2kk83/descarga-62.png" group-title="Colombia",City
