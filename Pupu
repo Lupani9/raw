@@ -508,7 +508,7 @@ http://167.249.29.111:8000/play/a04b/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://i.ibb.co/B2vPTV6F/images-1.png" group-title="Noticia",BBC
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://i.ibb.co/nq8D75vL/images.jpg" group-title="Noticia",BBC
 http://167.249.29.111:8000/play/a088/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.ibb.co/v7Vy3qD/cnn.jpg" group-title="Noticia",CNN
 http://167.249.29.111:8000/play/a03n/index.m3u8
