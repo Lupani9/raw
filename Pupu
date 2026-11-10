@@ -81,6 +81,17 @@ http://179.1.146.22:8000/play/a0hb/index.m3u8
 http://167.249.29.111:8000/play/a03f/index.m3u8
 
 
+
+                      COSTA RICA
+
+
+#EXTINF:-1 tvg-id="Repretel 4" tvg-name="Repretel 4" tvg-logo="https://i.ibb.co/DPG9pN8K/images-1.png" group-title="Costa Rica", Repretel 4
+http://167.249.29.111:8000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="Canal 6" tvg-name="Canal 6" tvg-logo="https://i.ibb.co/tppT7YDt/can6.png" group-title="Costa Rica",Canal 6
+#EXTINF:-1 tvg-id="Repretel 11" tvg-name="Repretel 11" tvg-logo="https://i.ibb.co/LzQ8ynX3/images-4.jpg" group-title="Costa Rica",Repretel 11
+http://167.250.223.26:9998/play/a022/index.m3u8
+
+
                               ECUADOR
 
 #EXTINF:-1 tvg-id="TC" tvg-name="TC" tvg-logo="https://i.ibb.co/dD9s8qQ/descarga-6.jpg" group-title="Ecuador",TC
@@ -92,7 +103,40 @@ http://167.250.180.251:4001/play/a0iq/index.m3u8
 #EXTINF:-1 tvg-id="Teleamazona" tvg-name="Teleamazona" tvg-logo="https://i.ibb.co/ymKfX76k/teleamazonas.jpg" group-title="Ecuador",Teleamazona
 http://206.62.161.192:8000/play/a0f7/index.m3u8
 
-                              MEXICO
+
+       
+                              GUATEMALA
+
+
+
+#EXTINF:-1 tvg-id="Canal 3" tvg-name="Canal 3" tvg-logo="https://i.ibb.co/ymKfX76k/teleamazonas.jpg" group-title="Guatemala",Canal 3
+http://167.250.223.26:9998/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="Canal 11" tvg-name="Canal 11" tvg-logo="https://i.ibb.co/ymKfX76k/teleamazonas.jpg" group-title="Guatemala",Canal 11
+http://167.250.223.26:9998/play/a01u/index.m3u8
+EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13" tvg-logo="https://i.ibb.co/Cp6369bn/images-2.png" group-title="Guatemala",Canal 13
+http://167.250.223.26:9998/play/a01t/index.m3u8
+
+
+
+
+                        HONDURAS
+
+
+
+#EXTINF:-1 tvg-id="Canal 3" tvg-name="Canal 3" tvg-logo="https://i.ibb.co/S7PFXcJY/images-3.png" group-title="Honduras",Canal 3
+http://167.250.223.26:9998/play/a00r/index.m3u8
+#EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://i.ibb.co/1tpW8Sdy/images-6.jpg" group-title="Honduras",Canal 5
+http://167.250.223.26:9998/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="TVC" tvg-name="TVC" tvg-logo="https://i.ibb.co/CmbPrVv/images-1.jpg" group-title="Honduras",TVC
+http://167.250.223.26:9998/play/a01r/index.m3u8
+
+
+
+
+                            MEXICO
+
+
+
 
 #EXTINF:-1 tvg-id="Az Clic" tvg-name="Az Clic" tvg-logo="https://i.ibb.co/4gzRC6T/descarga-50.png" group-title="Mexico",Az Clic
 http://181.78.50.141:8000/play/a04y/index.m3u8
@@ -113,7 +157,31 @@ http://45.177.179.227:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="las Estrellas" tvg-logo="https://i.ibb.co/Nm4Qn7p/descarga-48.png" group-title="Mexico",Las Estrellas
 http://181.78.50.141:8000/play/a003/index.m3u8
 
+
+
+
+                            NICARAGUA
+
+
+
+
+#EXTINF:-1 tvg-id="Canal 4" tvg-name="Canal 4" tvg-logo="https://i.ibb.co/m5VQR962/images-2.png" group-title="Nicaragua",Canal 4
+http://167.250.223.26:9998/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="Canal 6" tvg-name="Canal 6" tvg-logo="https://i.ibb.co/tppT7YDt/can6.png" group-title="Nicaragua",Canal 6
+http://167.250.223.26:9998/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="Canal 8" tvg-name="Canal 8" tvg-logo="https://i.ibb.co/Hph0Rz8Y/images-1.png" group-title="Nicaragua",Canal 8
+http://167.250.223.26:9998/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="Canal 14" tvg-name="Canal 13" tvg-logo="https://i.ibb.co/G4ZSHbZm/images-3.jpg" group-title="Nicaragua",Canal 14
+http://167.250.223.26:9998/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="Canal 14" tvg-name="Canal 13" tvg-logo="https://i.ibb.co/CKPTnd5b/images-5.jpg" group-title="Nicaragua",Canal 13
+http://167.250.223.26:9998/play/a04c/index.m3u8
+
+
+
+
                              PERU
+
+
 
 #EXTINF:-1 tvg-id="ANT" tvg-name="ANT" tvg-logo="https://i.ibb.co/zrYN9cQ/images-1.png" group-title="Peru",ANT
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/.m3u8
@@ -162,7 +230,33 @@ http://179.1.146.22:8000/play/a0n6/index.m3u8
 #EXTINF:-1 tvg-id="YA Ucayali" tvg-name="YA Ucayall" tvg-logo="https://i.ibb.co/DtJfzF0/descarga-5.jpg" group-title="Peru",YA Ucayali
 https://eu1.servers10.com:8081/8180/tracks-v1a1/mono.m3u8
 
-                             VENEZIELA
+
+
+                             
+
+                       
+
+                       
+                          SALVADOR
+
+
+#EXTINF:-1 tvg-id="Canal 11 esa" tvg-name="Canal 11 esa" tvg-logo="https://i.ibb.co/1fwYTpyM/canal-11.jpg" group-title="Salvador",Canal 11 esa
+http://167.250.223.26:9998/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="Canal 12 esa" tvg-name="Canal 12 esa" tvg-logo="https://i.ibb.co/ZRcH6Nb6/images.jpg" group-title="Salvador",Canal 12 esa
+http://161.132.112.34:9000/play/a05g/index.m3u8
+#EXTINF:-1 tvg-id="Canal 19 esa" tvg-name="Canal 19 esa" tvg-logo="https://i.ibb.co/V5gcVQx/images-1.png" group-title="Salvador",Canal 19 esa
+http://161.132.112.34:9000/play/a05g/index.m3u8
+#EXTINF:-1 tvg-id="Canal 21 esa" tvg-name="Canal 21 esa" tvg-logo="https://i.ibb.co/0V9Fv2Nz/images.jpg" group-title="Salvador",Canal 21 esa
+http://38.224.22.255:8000/play/a007/index.m3u8
+
+
+                           
+
+
+
+                        VENEZUELA
+
+
      
 #EXTINF:-1 tvg-id="Cable Noticia" tvg-name="Cable Noticia" tvg-logo="https://i.ibb.co/mvnGGy9/descarga-4.png" group-title="Venezuela",Cable Noticia
 http://190.60.59.67:8000/play/a08j/index.m3u8
@@ -173,42 +267,9 @@ http://179.1.146.22:8000/play/a0rn/index.m3u8
 
 
 
-                       NICARAGUA
-
-
-#EXTINF:-1 tvg-id="Canal 4" tvg-name="Canal 4" tvg-logo="https://i.ibb.co/m5VQR962/images-2.png" group-title="Nicaragua",Canal 4
-http://38.224.22.255:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-id="Canal 6" tvg-name="Canal 6" tvg-logo="https://i.ibb.co/tppT7YDt/can6.png" group-title="Nicaragua",Canal 6
-http://38.224.22.255:8000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="Canal 8" tvg-name="Canal 8" tvg-logo="https://i.ibb.co/Hph0Rz8Y/images-1.png" group-title="Nicaragua",Canal 8
-http://161.132.112.34:9000/play/a05g/index.m3u8
-
-
-                       
-                          SAVLADOR
-
-
-#EXTINF:-1 tvg-id="Canal 11 esa" tvg-name="Canal 11 esa" tvg-logo="https://i.ibb.co/1fwYTpyM/canal-11.jpg" group-title="Salvador",Canal 11 esa
-http://161.132.112.34:9000/play/a05g/index.m3u8
-#EXTINF:-1 tvg-id="Canal 12 esa" tvg-name="Canal 12 esa" tvg-logo="https://i.ibb.co/ZRcH6Nb6/images.jpg" group-title="Salvador",Canal 12 esa
-http://161.132.112.34:9000/play/a05g/index.m3u8
-#EXTINF:-1 tvg-id="Canal 19 esa" tvg-name="Canal 19 esa" tvg-logo="https://i.ibb.co/V5gcVQx/images-1.png" group-title="Salvador",Canal 19 esa
-http://161.132.112.34:9000/play/a05g/index.m3u8
-#EXTINF:-1 tvg-id="Canal 21 esa" tvg-name="Canal 21 esa" tvg-logo="https://i.ibb.co/0V9Fv2Nz/images.jpg" group-title="Salvador",Canal 21 esa
-http://38.224.22.255:8000/play/a007/index.m3u8
-
-
-                           HONDURAS
-
-
-
-#EXTINF:-1 tvg-id="TVC" tvg-name="TVC" tvg-logo="https://i.ibb.co/CmbPrVv/images-1.jpg" group-title="Honduras",TVC
-http://38.224.22.255:8000/play/a0dd/index.m3u8
-
-
-
-
                                PELICULA
+
+
 
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/QPKDTXk/images.png" group-title="Pelicula",A&E
@@ -357,8 +418,10 @@ http://190.7.19.206:8098/play/a0nw/index.m3u8
 http://190.7.19.206:8098/play/a0p1/index.m3u8 3
 #EXTINF:-1 tvg-id="Fox 3" tvg-name="Fox 3" tvg-logo="https://i.ibb.co/17RwgT1/descarga-4.png" group-title="Deporte",Fox 3
 http://190.7.19.206:8098/play/a0mo/index.m3u8 3
-#EXTINF:-1 tvg-id="L1 Max" tvg-name="la L1 Max" tvg-logo="https://i.ibb.co/18V9dbX/descarga-2.png" group-title="Deporte",L1 Max
+#EXTINF:-1 tvg-id="L1 Max" tvg-name="L1 Max" tvg-logo="https://i.ibb.co/18V9dbX/descarga-2.png" group-title="Deporte",L1 Max
 http://167.249.29.111:8000/play/a09c/index.m3u8
+#EXTINF:-1 tvg-id="La Liga" tvg-name="la Liga" tvg-logo="https://i.ibb.co/p6c7WtNL/images.png" group-title="Deporte",La Liga
+http://siriustv.lat:8000/play/a0j7/index.m3u8
 #EXTINF:-1 tvg-id="TyC Sport" tvg-name="TyC Sport" tvg-logo="https://i.ibb.co/cygC07h/images-1.jpg" group-title="Deporte",TyC Sport
 http://181.64.186.65:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="Tigo" tvg-name="Tigo" tvg-logo="https://i.ibb.co/qMWvBnqk/tigo.jpg" group-title="Deporte",TIgo
@@ -373,6 +436,8 @@ http://200.121.48.5:8081/play/a0k2/index.m3u8
 
 #EXTINF:-1 tvg-id="Adult swin" tvg-name="Adulto swin" tvg-logo="https://i.ibb.co/VqrVbSH/descarga-2.png" group-title="Dibujo",Adulto swin
 http://179.1.146.22:8000/play/a0rc/index.m3u8
+#EXTINF:-1 tvg-id="Anime" tvg-name="Adulto swin" tvg-logo="https://i.ibb.co/qhMk5n8/images.png" group-title="Dibujo",Anime
+https://live-evg8.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8?uid=14711183
 #EXTINF:-1 tvg-id="Baby tv" tvg-name="Baby tv" tvg-logo="https://i.ibb.co/pQtzKWR/images-1.png" group-title="Dibujo",Baby tv
 http://179.1.146.22:8000/play/a0hv/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/brDYjHx/descarga-23.jpg" group-title="Dibujo",Cartoon Network
@@ -428,6 +493,9 @@ http://181.78.50.141:8000/play/a03r/index.m3u8
                          MUSICA
 
 
+#EXTINF:-1 tvg-id="Banda Max" tvg-name="Banda Max" tvg-logo="https://i.ibb.co/M5tMcWBg/images-2.jpg" group-title="Entretenimiento",Banda Max
+#EXTINF:-1 tvg-id="Zona Latina" tvg-name="Zona Latina" tvg-logo="https://i.ibb.co/27fp3XC6/images-1.jpg" group-title="Entretenimiento",Zona Latina
+http://167.249.29.111:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="MTv" tvg-name="Mtv" tvg-logo="https://i.ibb.co/tTPv3G4r/images-3.png" group-title="Entretenimiento",Mtv
 http://179.1.146.22:8000/play/a0bp/index.m3u8
 #EXTINF:-1 tvg-id="hTv" tvg-name="htv" tvg-logo="https://i.ibb.co/prLMQ06G/images-1.jpg" group-title="Entretenimiento",htv
@@ -440,7 +508,7 @@ http://167.249.29.111:8000/play/a04b/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://i.ibb.co/Zzq4CxYc/images-1.png" group-title="Noticia",BBC
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://i.ibb.co/B2vPTV6F/images-1.png" group-title="Noticia",BBC
 http://167.249.29.111:8000/play/a088/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.ibb.co/v7Vy3qD/cnn.jpg" group-title="Noticia",CNN
 http://167.249.29.111:8000/play/a03n/index.m3u8
