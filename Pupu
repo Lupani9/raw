@@ -406,7 +406,7 @@ http://179.1.146.22:8000/play/a0sb/index.m3u8
 http://179.1.146.22:8000/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-id="Espn 3" tvg-name="Espn 3" tvg-logo="https://i.ibb.co/jgg17Dj/descarga-33.png" group-title="Deporte",Espn 3
 http://179.1.146.22:8000/play/a0l2/index.m3u8
-#EXTINF:-1 tvg-id="Espn 4" tvg-name="Espn 4" tvg-logo="https://i.ibb.co/jZ1cMb4C/images-1.jpg" group-title="Deporte",Espn 4
+#EXTINF:-1 tvg-id="Espn 4" tvg-name="Espn 4" tvg-logo="https://i.ibb.co/6cdVqW5Z/images-1.jpg" group-title="Deporte",Espn 4
 http://179.1.146.22:8000/play/a0gc/index.m3u8
 #EXTINF:-1 tvg-id="Espn 5" tvg-name="Espn 5" tvg-logo="https://i.ibb.co/gbqBNMDb/images.png" group-title="Deporte",Espn 5
 http://167.249.29.111:8000/play/a08z/index.m3u8
