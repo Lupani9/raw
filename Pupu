@@ -567,8 +567,7 @@ http://181.78.50.141:8000/play/a03r/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Banda Max" tvg-name="Banda Max" tvg-logo="https://i.ibb.co/M5tMcWBg/images-2.jpg" group-title="Entretenimiento",Banda Max
-#EXTINF:-1 tvg-id="Zona Latina" tvg-name="Zona Latina" tvg-logo="https://i.ibb.co/27fp3XC6/images-1.jpg" group-title="Entretenimiento",Zona Latina
-http://167.249.29.111:8000/play/a04b/index.m3u8
+http://167.250.223.26:9998/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="MTv" tvg-name="Mtv" tvg-logo="https://i.ibb.co/tTPv3G4r/images-3.png" group-title="Entretenimiento",Mtv
 http://179.1.146.22:8000/play/a0bp/index.m3u8
 #EXTINF:-1 tvg-id="hTv" tvg-name="htv" tvg-logo="https://i.ibb.co/prLMQ06G/images-1.jpg" group-title="Entretenimiento",htv
@@ -605,7 +604,7 @@ http://179.1.146.22:8000/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-id="TL novela" tvg-name="TL novela" tvg-logo="https://i.ibb.co/cXrXYzt2/telenovela.jpg" group-title="Novela",TLnovela
 http://179.1.146.22:8000/play/a0d5/index.m3u8
 #EXTINF:-1 tvg-id="Pasiones" tvg-name="Pasiones" tvg-logo="https://i.ibb.co/448Lqfc/images-7.jpg" group-title="Novela",Pasiones
-http://209.61.12.135:9000/play/a097/index.m3u8
+http://38.137.192.250:8000/play/a0cl
 
 
 
