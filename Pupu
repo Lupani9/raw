@@ -303,14 +303,37 @@ http://179.1.146.22:8000/play/a0n6/index.m3u8
 #EXTINF:-1 tvg-id="YA Ucayali" tvg-name="YA Ucayall" tvg-logo="https://i.ibb.co/DtJfzF0/descarga-5.jpg" group-title="Peru",YA Ucayali
 https://eu1.servers10.com:8081/8180/tracks-v1a1/mono.m3u8
 
+                    
+                                                                      
+                REGIONAL
 
 
-                             
+#EXTINF:-1 tvg-id="36TVHuacho.pe@SD",36 TV Huacho 
+https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="AmazonicaTV.pe@SD",Amazonica TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8   
+#EXTINF:-1 tvg-id="AntenaSUR.pe@SD",Antena SUR (720p)
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe@SD",Auténtica Televisión (720p) [Not 24/7]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-id="BellaAbanquinaTV.pe@SD",Bella Abanquina TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="BNBDigital.pe@SD",BNB Digital (720p)               pucallà
+https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="UcayalinadeTelevision.pe@SD",Ucayalina de Television (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
+#EXTINF:-1 tvg-id="canal yaTV.pe@SD",ya TV (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitv/chunks.m3u8
+#EXTINF:-1 tvg-id="CharapaTV.pe@SD",Charapa TV (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="RVP TV" ,RTV pucallpa
+https://eu1.servers10.com:8081/8030/index.m3u8
+#EXTINF:-1 tvg-id="pucallpa p" ,p tv
+https://live-
 
-                       
 
-                       
-                          SALVADOR
+
+                      SALVADOR
 
 
 #EXTINF:-1 tvg-id="Canal 11 esa" tvg-name="Canal 11 esa" tvg-logo="https://i.ibb.co/1fwYTpyM/canal-11.jpg" group-title="Salvador",Canal 11 esa
@@ -433,7 +456,12 @@ http://190.216.162.153:8001/play/a03t/index.m3u8
 http://38.137.192.250:8000/play/okok
 #EXTINF:-1 tvg-id="Movie" tvg-name="Movie" tvg-logo="https://i.ibb.co/Z6J8h4LJ/images-3.png" group-title="Premiun",Movie
 http://38.137.192.250:8000/play/cvmseries
-
+#EXTINF:-1 tvg-id="Rakuten comedia" tvg-name="Rakuten" tvg-logo="https://i.ibb.co/svpfZ1by/images.png" tvg-litle="Premiun", comedia 
+https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:-1 tvg-id="Rakuten drama" tvg-name="Rakuten drama",tvg-logo="https://i.ibb.co/svpfZ1by/images.png tvg-litle="Premiun",Rakuten drama 
+https://drama-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+#EXTINF:-1 tvg-id="Rakuten movoe espana",rakuten movie
+https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 
                             CULTURA
 
