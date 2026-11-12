@@ -259,13 +259,13 @@ http://167.250.223.26:9998/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="ANT" tvg-name="ANT" tvg-logo="https://i.ibb.co/zrYN9cQ/images-1.png" group-title="Peru",ANT
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/.m3u8
 #EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://i.ibb.co/L6GsKy2/images.png" group-title="Peru",America
-http://209.61.12.135:9000/play/a070/index.m3u8
+http://179.43.96.253:8000/play/a29h/index.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-logo="https://i.ibb.co/fXTwHq9/descarga-24.jpg" group-title="Peru",Atv
-http://209.61.12.135:9000/play/a0ae/index.m3u8
+http://179.43.96.253:8000/play/a2ap/index.m3u8
 #EXTINF:-1 tvg-id="Atv +" tvg-name="Atv +" tvg-logo="https://i.ibb.co/SsL2tKf/descarga-25.jpg" group-title="Peru",Atv +
 http://200.121.48.5:8081/play/a0ku/index.m3u8
 #EXTINF:-1 tvg-id="Atv Sur" tvg-name="Atv Sur" tvg-logo="https://i.ibb.co/ZG12J0Q/descarga-32.jpg" group-title="Peru",Atv Sur
-http://209.61.12.135:9000/play/a0ae/index.m3u8
+http://179.43.96.253:8000/play/a1lm/index.m3u8
 #EXTINF:-1 tvg-id="BNB" tvg-name="BNB" tvg-logo="https://i.ibb.co/YBNRfvWP/screen-4.jpg" group-title="Peru",BNB
 https://live-evg25.tv360.bitel.com.pe/bitel/bnb/chunks.m3u8
 #EXTINF:-1 tvg-id="Canal N" tvg-name="Canal N" tvg-logo="https://i.ibb.co/BPMxkFD/images-8.jpg" group-title="Peru",Canal N
